@@ -15,6 +15,7 @@ Study notes and problem links organized by topic:
 - [Dynamic Programming](topics/dynamic-programming/)
 - [Graphs](topics/graphs/)
 - [Hash Tables](topics/hash-tables/)
+- [Heaps](topics/heaps/)
 - [Linked Lists](topics/linked-lists/)
 - [Searching](topics/searching/)
 - [Sorting](topics/sorting/)
