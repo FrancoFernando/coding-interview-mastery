@@ -134,6 +134,17 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 215,
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "categories": [
+        "heaps"
+      ],
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "notes": "",
+      "date_solved": "2026-01-10"
+    },
+    {
       "id": 216,
       "title": "Combination Sum III",
       "difficulty": "Medium",
@@ -179,6 +190,17 @@
       "date_solved": "2026-01-07"
     },
     {
+      "id": 703,
+      "title": "Kth Largest Element in a Stream",
+      "difficulty": "Easy",
+      "categories": [
+        "heaps"
+      ],
+      "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "notes": "",
+      "date_solved": "2026-01-10"
+    },
+    {
       "id": 707,
       "title": "Design Linked List",
       "difficulty": "Medium",
@@ -211,6 +233,28 @@
       "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences/",
       "notes": "",
       "date_solved": "2026-01-09"
+    },
+    {
+      "id": 973,
+      "title": "K Closest Points to Origin",
+      "difficulty": "Medium",
+      "categories": [
+        "heaps"
+      ],
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "notes": "",
+      "date_solved": "2026-01-10"
+    },
+    {
+      "id": 1167,
+      "title": "Minimum Cost to Connect Sticks",
+      "difficulty": "Medium",
+      "categories": [
+        "heaps"
+      ],
+      "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+      "notes": "",
+      "date_solved": "2026-01-10"
     },
     {
       "id": 1290,
@@ -256,6 +300,17 @@
       "link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
       "notes": "",
       "date_solved": "2026-01-07"
+    },
+    {
+      "id": 1962,
+      "title": "Remove Stones to Minimize the Total",
+      "difficulty": "Medium",
+      "categories": [
+        "heaps"
+      ],
+      "link": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
+      "notes": "",
+      "date_solved": "2026-01-10"
     },
     {
       "id": 2074,
