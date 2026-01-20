@@ -14,6 +14,7 @@ Study notes and problem links organized by topic:
 - [Backtracking](topics/backtracking/)
 - [Dynamic Programming](topics/dynamic-programming/)
 - [Graphs](topics/graphs/)
+- [Greedy](topics/greedy/)
 - [Hash Tables](topics/hash-tables/)
 - [Heaps](topics/heaps/)
 - [Linked Lists](topics/linked-lists/)
