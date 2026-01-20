@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-35-blue)
+![Problems Solved](https://img.shields.io/badge/solved-39-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 11     |
-| Medium     | 23     |
-| Hard       | 1     |
-| **Total**  | **35** |
+| Easy       | 13     |
+| Medium     | 24     |
+| Hard       | 2     |
+| **Total**  | **39** |
 
 ## Browse by Category
 
@@ -20,6 +20,7 @@
 - [hash-tables](categories/hash-tables.md)
 - [heaps](categories/heaps.md)
 - [linked-lists](categories/linked-lists.md)
+- [searching](categories/searching.md)
 - [strings](categories/strings.md)
 
 [View All](categories/)
@@ -43,6 +44,7 @@ python scripts/generate_indexes.py
 | 1 | [Two Sum](problems/0001-two-sum) | Easy | arrays, hash-tables |
 | 19 | [Remove Nth Node From End of List](problems/0019-remove-nth-node-from-end-of-list) | Medium | linked-lists |
 | 22 | [Generate Parentheses](problems/0022-generate-parentheses) | Medium | backtracking |
+| 35 | [Search Insert Position](problems/0035-search-insert-position) | Easy | searching |
 | 39 | [Combination Sum](problems/0039-combination-sum) | Medium | backtracking |
 | 40 | [Combination Sum II](problems/0040-combination-sum-ii) | Medium | backtracking |
 | 46 | [Permutations](problems/0046-permutations) | Medium | backtracking |
@@ -64,6 +66,8 @@ python scripts/generate_indexes.py
 | 973 | [K Closest Points to Origin](problems/0973-k-closest-points-to-origin) | Medium | heaps |
 | 1167 | [Minimum Cost to Connect Sticks](problems/1167-minimum-cost-to-connect-sticks) | Medium | heaps |
 | 1196 | [How Many Apples Can You Put into the Basket](problems/1196-how-many-apples-can-you-put-into-the-basket) | Easy | greedy |
+| 1231 | [Divide Chocolate](problems/1231-divide-chocolate) | Hard | searching |
+| 1283 | [Find the Smallest Divisor Given a Threshold](problems/1283-find-the-smallest-divisor-given-a-threshold) | Medium | searching |
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | linked-lists |
 | 1323 | [Maximum 69 Number](problems/1323-maximum-69-number) | Easy | greedy |
 | 1338 | [Reduce Array Size to The Half](problems/1338-reduce-array-size-to-the-half) | Medium | greedy |
@@ -75,6 +79,7 @@ python scripts/generate_indexes.py
 | 2074 | [Reverse Nodes in Even Length Groups](problems/2074-reverse-nodes-in-even-length-groups) | Medium | linked-lists |
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-delete-the-middle-node-of-a-linked-list) | Medium | linked-lists |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
+| 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
 
 ---
 
