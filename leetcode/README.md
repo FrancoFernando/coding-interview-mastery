@@ -1,21 +1,22 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-31-blue)
+![Problems Solved](https://img.shields.io/badge/solved-35-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 8     |
-| Medium     | 22     |
+| Easy       | 11     |
+| Medium     | 23     |
 | Hard       | 1     |
-| **Total**  | **31** |
+| **Total**  | **35** |
 
 ## Browse by Category
 
 - [arrays](categories/arrays.md)
 - [backtracking](categories/backtracking.md)
 - [graphs](categories/graphs.md)
+- [greedy](categories/greedy.md)
 - [hash-tables](categories/hash-tables.md)
 - [heaps](categories/heaps.md)
 - [linked-lists](categories/linked-lists.md)
@@ -62,8 +63,12 @@ python scripts/generate_indexes.py
 | 967 | [Numbers With Same Consecutive Differences](problems/0967-numbers-with-same-consecutive-differences) | Medium | backtracking |
 | 973 | [K Closest Points to Origin](problems/0973-k-closest-points-to-origin) | Medium | heaps |
 | 1167 | [Minimum Cost to Connect Sticks](problems/1167-minimum-cost-to-connect-sticks) | Medium | heaps |
+| 1196 | [How Many Apples Can You Put into the Basket](problems/1196-how-many-apples-can-you-put-into-the-basket) | Easy | greedy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | linked-lists |
+| 1323 | [Maximum 69 Number](problems/1323-maximum-69-number) | Easy | greedy |
+| 1338 | [Reduce Array Size to The Half](problems/1338-reduce-array-size-to-the-half) | Medium | greedy |
 | 1426 | [Counting Elements](problems/1426-counting-elements) | Easy | hash-tables |
+| 1710 | [Maximum Units on a Truck](problems/1710-maximum-units-on-a-truck) | Easy | greedy |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |
 | 1962 | [Remove Stones to Minimize the Total](problems/1962-remove-stones-to-minimize-the-total) | Medium | heaps |
@@ -73,4 +78,4 @@ python scripts/generate_indexes.py
 
 ---
 
-*Last updated: 2026-01-19*
+*Last updated: 2026-01-20*

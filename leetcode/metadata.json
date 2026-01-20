@@ -257,6 +257,17 @@
       "date_solved": "2026-01-10"
     },
     {
+      "id": 1196,
+      "title": "How Many Apples Can You Put into the Basket",
+      "difficulty": "Easy",
+      "categories": [
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/",
+      "notes": "",
+      "date_solved": "2026-01-20"
+    },
+    {
       "id": 1290,
       "title": "Convert Binary Number in a Linked List to Integer",
       "difficulty": "Easy",
@@ -268,6 +279,28 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 1323,
+      "title": "Maximum 69 Number",
+      "difficulty": "Easy",
+      "categories": [
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/maximum-69-number/",
+      "notes": "",
+      "date_solved": "2026-01-20"
+    },
+    {
+      "id": 1338,
+      "title": "Reduce Array Size to The Half",
+      "difficulty": "Medium",
+      "categories": [
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/reduce-array-size-to-the-half/",
+      "notes": "",
+      "date_solved": "2026-01-20"
+    },
+    {
       "id": 1426,
       "title": "Counting Elements",
       "difficulty": "Easy",
@@ -277,6 +310,17 @@
       "link": "https://leetcode.com/problems/counting-elements/",
       "notes": "",
       "date_solved": "2026-01-07"
+    },
+    {
+      "id": 1710,
+      "title": "Maximum Units on a Truck",
+      "difficulty": "Easy",
+      "categories": [
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/maximum-units-on-a-truck/",
+      "notes": "",
+      "date_solved": "2026-01-20"
     },
     {
       "id": 1721,

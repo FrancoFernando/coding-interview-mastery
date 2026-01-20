@@ -11,6 +11,9 @@
 ## [graphs](graphs.md)
 **1 problems** - Easy: 0, Medium: 1, Hard: 0
 
+## [greedy](greedy.md)
+**4 problems** - Easy: 3, Medium: 1, Hard: 0
+
 ## [hash-tables](hash-tables.md)
 **4 problems** - Easy: 3, Medium: 1, Hard: 0
 
