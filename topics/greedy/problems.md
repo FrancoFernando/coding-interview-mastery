@@ -1,0 +1,19 @@
+# Greedy Problems
+
+_Last updated: 2026-01-20_
+
+## LeetCode
+
+### Easy
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Solution](../../leetcode/problems/1196-how-many-apples-can-you-put-into-the-basket/solution.py) |  |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](../../leetcode/problems/1323-maximum-69-number/solution.py) |  |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](../../leetcode/problems/1710-maximum-units-on-a-truck/solution.py) |  |
+
+### Medium
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Solution](../../leetcode/problems/1338-reduce-array-size-to-the-half/solution.py) |  |

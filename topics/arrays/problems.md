@@ -1,6 +1,6 @@
 # Arrays Problems
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-01-20_
 
 ## LeetCode
 
