@@ -432,6 +432,39 @@
       "link": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
       "notes": "",
       "date_solved": "2026-01-20"
+    },
+    {
+      "id": 70,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/climbing-stairs/",
+      "notes": "",
+      "date_solved": "2026-01-20"
+    },
+    {
+      "id": 309,
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "difficulty": "Medium",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "notes": "",
+      "date_solved": "2026-01-20"
+    },
+    {
+      "id": 322,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/coin-change/",
+      "notes": "",
+      "date_solved": "2026-01-20"
     }
   ]
 }
