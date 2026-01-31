@@ -1,20 +1,21 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-39-blue)
+![Problems Solved](https://img.shields.io/badge/solved-42-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 13     |
-| Medium     | 24     |
+| Easy       | 14     |
+| Medium     | 26     |
 | Hard       | 2     |
-| **Total**  | **39** |
+| **Total**  | **42** |
 
 ## Browse by Category
 
 - [arrays](categories/arrays.md)
 - [backtracking](categories/backtracking.md)
+- [dynamic-programming](categories/dynamic-programming.md)
 - [graphs](categories/graphs.md)
 - [greedy](categories/greedy.md)
 - [hash-tables](categories/hash-tables.md)
@@ -50,6 +51,7 @@ python scripts/generate_indexes.py
 | 46 | [Permutations](problems/0046-permutations) | Medium | backtracking |
 | 47 | [Permutations II](problems/0047-permutations-ii) | Medium | backtracking |
 | 51 | [N-Queens](problems/0051-n-queens) | Hard | backtracking |
+| 70 | [Climbing Stairs](problems/0070-climbing-stairs) | Easy | dynamic-programming |
 | 78 | [Subsets](problems/0078-subsets) | Medium | backtracking |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | linked-lists |
 | 93 | [Restore IP Addresses](problems/0093-restore-ip-addresses) | Medium | backtracking |
@@ -57,6 +59,8 @@ python scripts/generate_indexes.py
 | 215 | [Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array) | Medium | heaps |
 | 216 | [Combination Sum III](problems/0216-combination-sum-iii) | Medium | backtracking |
 | 234 | [Palindrome Linked List](problems/0234-palindrome-linked-list) | Easy | linked-lists |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/0309-best-time-to-buy-and-sell-stock-with-cooldown) | Medium | dynamic-programming |
+| 322 | [Coin Change](problems/0322-coin-change) | Medium | dynamic-programming |
 | 328 | [Odd Even Linked List](problems/0328-odd-even-linked-list) | Medium | linked-lists |
 | 560 | [Subarray Sum Equals K](problems/0560-subarray-sum-equals-k) | Medium | arrays, hash-tables |
 | 703 | [Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream) | Easy | heaps |
@@ -83,4 +87,4 @@ python scripts/generate_indexes.py
 
 ---
 
-*Last updated: 2026-01-20*
+*Last updated: 2026-01-31*
