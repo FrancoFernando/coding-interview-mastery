@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-43-blue)
+![Problems Solved](https://img.shields.io/badge/solved-44-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 14     |
-| Medium     | 27     |
+| Medium     | 28     |
 | Hard       | 2     |
-| **Total**  | **43** |
+| **Total**  | **44** |
 
 ## Browse by Category
 
@@ -80,6 +80,7 @@ python scripts/generate_indexes.py
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |
 | 1962 | [Remove Stones to Minimize the Total](problems/1962-remove-stones-to-minimize-the-total) | Medium | heaps |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](problems/2033-minimum-operations-to-make-a-uni-value-grid) | Medium | arrays |
 | 2074 | [Reverse Nodes in Even Length Groups](problems/2074-reverse-nodes-in-even-length-groups) | Medium | linked-lists |
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-delete-the-middle-node-of-a-linked-list) | Medium | linked-lists |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
