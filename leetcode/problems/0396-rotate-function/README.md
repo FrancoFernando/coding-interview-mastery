@@ -23,8 +23,8 @@ The test cases are generated so that the answer fits in a 32-bit integer.
 
 ## Complexity
 
-- **Time Complexity:** O(?)
-- **Space Complexity:** O(?)
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
 
 ## Notes
 
