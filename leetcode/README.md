@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-45-blue)
+![Problems Solved](https://img.shields.io/badge/solved-46-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 14     |
-| Medium     | 29     |
+| Medium     | 30     |
 | Hard       | 2     |
-| **Total**  | **45** |
+| **Total**  | **46** |
 
 ## Browse by Category
 
@@ -63,6 +63,7 @@ python scripts/generate_indexes.py
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](problems/0309-best-time-to-buy-and-sell-stock-with-cooldown) | Medium | dynamic-programming |
 | 322 | [Coin Change](problems/0322-coin-change) | Medium | dynamic-programming |
 | 328 | [Odd Even Linked List](problems/0328-odd-even-linked-list) | Medium | linked-lists |
+| 396 | [Rotate Function](problems/0396-rotate-function) | Medium | arrays, dynamic-programming |
 | 560 | [Subarray Sum Equals K](problems/0560-subarray-sum-equals-k) | Medium | arrays, hash-tables |
 | 703 | [Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream) | Easy | heaps |
 | 707 | [Design Linked List](problems/0707-design-linked-list) | Medium | linked-lists |

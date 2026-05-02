@@ -222,6 +222,18 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 396,
+      "title": "Rotate Function",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/rotate-function/",
+      "notes": "",
+      "date_solved": "2026-05-02"
+    },
+    {
       "id": 560,
       "title": "Subarray Sum Equals K",
       "difficulty": "Medium",

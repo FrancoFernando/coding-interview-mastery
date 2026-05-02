@@ -3,13 +3,13 @@
 [← Back to LeetCode](../README.md)
 
 ## [arrays](arrays.md)
-**3 problems** - Easy: 1, Medium: 2, Hard: 0
+**4 problems** - Easy: 1, Medium: 3, Hard: 0
 
 ## [backtracking](backtracking.md)
 **11 problems** - Easy: 0, Medium: 10, Hard: 1
 
 ## [dynamic-programming](dynamic-programming.md)
-**4 problems** - Easy: 1, Medium: 3, Hard: 0
+**5 problems** - Easy: 1, Medium: 4, Hard: 0
 
 ## [graphs](graphs.md)
 **1 problems** - Easy: 0, Medium: 1, Hard: 0
