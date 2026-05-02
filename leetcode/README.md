@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-44-blue)
+![Problems Solved](https://img.shields.io/badge/solved-45-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 14     |
-| Medium     | 28     |
+| Medium     | 29     |
 | Hard       | 2     |
-| **Total**  | **44** |
+| **Total**  | **45** |
 
 ## Browse by Category
 
@@ -21,6 +21,7 @@
 - [hash-tables](categories/hash-tables.md)
 - [heaps](categories/heaps.md)
 - [linked-lists](categories/linked-lists.md)
+- [math](categories/math.md)
 - [searching](categories/searching.md)
 - [strings](categories/strings.md)
 
@@ -65,6 +66,7 @@ python scripts/generate_indexes.py
 | 560 | [Subarray Sum Equals K](problems/0560-subarray-sum-equals-k) | Medium | arrays, hash-tables |
 | 703 | [Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream) | Easy | heaps |
 | 707 | [Design Linked List](problems/0707-design-linked-list) | Medium | linked-lists |
+| 788 | [Rotated Digits](problems/0788-rotated-digits) | Medium | math |
 | 797 | [All Paths From Source to Target](problems/0797-all-paths-from-source-to-target) | Medium | backtracking, graphs |
 | 967 | [Numbers With Same Consecutive Differences](problems/0967-numbers-with-same-consecutive-differences) | Medium | backtracking |
 | 973 | [K Closest Points to Origin](problems/0973-k-closest-points-to-origin) | Medium | heaps |
@@ -89,4 +91,4 @@ python scripts/generate_indexes.py
 
 ---
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-05-02*

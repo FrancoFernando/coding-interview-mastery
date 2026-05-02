@@ -256,6 +256,17 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 788,
+      "title": "Rotated Digits",
+      "difficulty": "Medium",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/rotated-digits/",
+      "notes": "",
+      "date_solved": "2026-05-02"
+    },
+    {
       "id": 797,
       "title": "All Paths From Source to Target",
       "difficulty": "Medium",
