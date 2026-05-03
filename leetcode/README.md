@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-46-blue)
+![Problems Solved](https://img.shields.io/badge/solved-47-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 14     |
+| Easy       | 15     |
 | Medium     | 30     |
 | Hard       | 2     |
-| **Total**  | **46** |
+| **Total**  | **47** |
 
 ## Browse by Category
 
@@ -68,6 +68,7 @@ python scripts/generate_indexes.py
 | 703 | [Kth Largest Element in a Stream](problems/0703-kth-largest-element-in-a-stream) | Easy | heaps |
 | 707 | [Design Linked List](problems/0707-design-linked-list) | Medium | linked-lists |
 | 788 | [Rotated Digits](problems/0788-rotated-digits) | Medium | math |
+| 796 | [Rotate string](problems/0796-rotate-string) | Easy | strings |
 | 797 | [All Paths From Source to Target](problems/0797-all-paths-from-source-to-target) | Medium | backtracking, graphs |
 | 967 | [Numbers With Same Consecutive Differences](problems/0967-numbers-with-same-consecutive-differences) | Medium | backtracking |
 | 973 | [K Closest Points to Origin](problems/0973-k-closest-points-to-origin) | Medium | heaps |
@@ -92,4 +93,4 @@ python scripts/generate_indexes.py
 
 ---
 
-*Last updated: 2026-05-02*
+*Last updated: 2026-05-03*
