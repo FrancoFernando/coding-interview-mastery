@@ -24,7 +24,7 @@
 **5 problems** - Easy: 1, Medium: 4, Hard: 0
 
 ## [linked-lists](linked-lists.md)
-**11 problems** - Easy: 4, Medium: 7, Hard: 0
+**12 problems** - Easy: 4, Medium: 8, Hard: 0
 
 ## [math](math.md)
 **1 problems** - Easy: 0, Medium: 1, Hard: 0

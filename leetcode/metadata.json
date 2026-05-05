@@ -101,6 +101,17 @@
       "date_solved": "2026-01-09"
     },
     {
+      "id": 61,
+      "title": "Rotate list",
+      "difficulty": "Medium",
+      "categories": [
+        "linked-lists"
+      ],
+      "link": "https://leetcode.com/problems/rotate-list/",
+      "notes": "",
+      "date_solved": "2026-05-05"
+    },
+    {
       "id": 70,
       "title": "Climbing Stairs",
       "difficulty": "Easy",

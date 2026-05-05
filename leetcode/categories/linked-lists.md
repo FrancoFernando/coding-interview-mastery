@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 11 problems**
+**Total: 12 problems**
 
 ## Easy (4)
 
@@ -11,9 +11,10 @@
 - **[234. Palindrome Linked List](../problems/0234-palindrome-linked-list)** - [Solution](problems/0234-palindrome-linked-list/solution.py)
 - **[1290. Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer)** - [Solution](problems/1290-convert-binary-number-in-a-linked-list-to-integer/solution.py)
 
-## Medium (7)
+## Medium (8)
 
 - **[19. Remove Nth Node From End of List](../problems/0019-remove-nth-node-from-end-of-list)** - [Solution](problems/0019-remove-nth-node-from-end-of-list/solution.py)
+- **[61. Rotate list](../problems/0061-rotate-list)** - [Solution](problems/0061-rotate-list/solution.py)
 - **[328. Odd Even Linked List](../problems/0328-odd-even-linked-list)** - [Solution](problems/0328-odd-even-linked-list/solution.py)
 - **[707. Design Linked List](../problems/0707-design-linked-list)** - [Solution](problems/0707-design-linked-list/solution.py)
 - **[1721. Swapping Nodes in a Linked List](../problems/1721-swapping-nodes-in-a-linked-list)** - [Solution](problems/1721-swapping-nodes-in-a-linked-list/solution.py)
@@ -23,4 +24,4 @@
 
 ---
 
-*Last updated: 2026-05-03*
+*Last updated: 2026-05-05*
