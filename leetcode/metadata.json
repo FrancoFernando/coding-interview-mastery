@@ -90,6 +90,17 @@
       "date_solved": "2026-01-09"
     },
     {
+      "id": 48,
+      "title": "Rotate image",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/rotate-image/",
+      "notes": "",
+      "date_solved": "2026-05-05"
+    },
+    {
       "id": 51,
       "title": "N-Queens",
       "difficulty": "Hard",

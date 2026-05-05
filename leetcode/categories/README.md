@@ -3,7 +3,7 @@
 [← Back to LeetCode](../README.md)
 
 ## [arrays](arrays.md)
-**4 problems** - Easy: 1, Medium: 3, Hard: 0
+**5 problems** - Easy: 1, Medium: 4, Hard: 0
 
 ## [backtracking](backtracking.md)
 **11 problems** - Easy: 0, Medium: 10, Hard: 1

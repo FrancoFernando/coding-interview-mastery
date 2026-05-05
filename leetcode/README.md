@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-48-blue)
+![Problems Solved](https://img.shields.io/badge/solved-49-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 15     |
-| Medium     | 31     |
+| Medium     | 32     |
 | Hard       | 2     |
-| **Total**  | **48** |
+| **Total**  | **49** |
 
 ## Browse by Category
 
@@ -51,6 +51,7 @@ python scripts/generate_indexes.py
 | 40 | [Combination Sum II](problems/0040-combination-sum-ii) | Medium | backtracking |
 | 46 | [Permutations](problems/0046-permutations) | Medium | backtracking |
 | 47 | [Permutations II](problems/0047-permutations-ii) | Medium | backtracking |
+| 48 | [Rotate image](problems/0048-rotate-image) | Medium | arrays |
 | 51 | [N-Queens](problems/0051-n-queens) | Hard | backtracking |
 | 61 | [Rotate list](problems/0061-rotate-list) | Medium | linked-lists |
 | 70 | [Climbing Stairs](problems/0070-climbing-stairs) | Easy | dynamic-programming |
