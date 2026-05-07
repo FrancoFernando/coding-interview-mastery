@@ -34,3 +34,20 @@ def test_solution():
 
 if __name__ == "__main__":
     test_solution()
+
+# more compact solution with itertools and handling last segment in the loop 
+from itertools import accumulate
+class Solution:
+    def maxValue(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        prefix_max = list(accumulate(nums,max))
+        suffix_min = list(accumulate(reversed(nums),min))[::-1]
+        
+        answer = []
+        segment_start = 0
+        for i in range(n):
+            if i == n-1 or prefix_max[i] <= suffix_min[i+1]:
+                answer.extend([prefix_max[i]] * (i-segment_start+1))
+                segment_start = i+1
+
+        return answer
