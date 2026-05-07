@@ -468,6 +468,17 @@
       "date_solved": "2026-01-07"
     },
     {
+      "id": 1861,
+      "title": "Rotating the Box",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/rotating-the-box/",
+      "notes": "",
+      "date_solved": "2026-05-07"
+    },
+    {
       "id": 1962,
       "title": "Remove Stones to Minimize the Total",
       "difficulty": "Medium",

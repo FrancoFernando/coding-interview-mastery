@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-50-blue)
+![Problems Solved](https://img.shields.io/badge/solved-51-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 15     |
-| Medium     | 33     |
+| Medium     | 34     |
 | Hard       | 2     |
-| **Total**  | **50** |
+| **Total**  | **51** |
 
 ## Browse by Category
 
@@ -85,6 +85,7 @@ python scripts/generate_indexes.py
 | 1710 | [Maximum Units on a Truck](problems/1710-maximum-units-on-a-truck) | Easy | greedy |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |
+| 1861 | [Rotating the Box](problems/1861-rotating-the-box) | Medium | arrays |
 | 1962 | [Remove Stones to Minimize the Total](problems/1962-remove-stones-to-minimize-the-total) | Medium | heaps |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](problems/2033-minimum-operations-to-make-a-uni-value-grid) | Medium | arrays |
 | 2074 | [Reverse Nodes in Even Length Groups](problems/2074-reverse-nodes-in-even-length-groups) | Medium | linked-lists |
