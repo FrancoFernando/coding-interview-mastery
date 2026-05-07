@@ -534,6 +534,17 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 3660,
+      "title": "Jump Game IX",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/jump-game-ix/",
+      "notes": "",
+      "date_solved": "2026-05-07"
+    },
+    {
       "id": 3742,
       "title": "Maximum Path Score in a Grid",
       "difficulty": "Medium",

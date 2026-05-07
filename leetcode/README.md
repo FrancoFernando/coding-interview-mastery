@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-49-blue)
+![Problems Solved](https://img.shields.io/badge/solved-50-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 15     |
-| Medium     | 32     |
+| Medium     | 33     |
 | Hard       | 2     |
-| **Total**  | **49** |
+| **Total**  | **50** |
 
 ## Browse by Category
 
@@ -91,8 +91,9 @@ python scripts/generate_indexes.py
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-delete-the-middle-node-of-a-linked-list) | Medium | linked-lists |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
 | 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
+| 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
 
 ---
 
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-07*
