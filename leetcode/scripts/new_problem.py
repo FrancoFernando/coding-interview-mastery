@@ -119,7 +119,8 @@ def create_problem(problem_id, title, difficulty="Medium", categories_str=None):
     print(f"Categories: {', '.join(categories)}")
     print("\nNext steps:")
     print(f"  1. Write solution in: {problem_dir}/solution.py")
-    print("  2. Run: python scripts/generate_indexes.py")
+    print("  2. Run: python scripts/generate_indexes.py (updates leetcode/README.md + categories/)")
+    print("  3. Run: python ../scripts/generate_topic_problems.py (updates cross-platform topics/)")
     return True
 
 def main():

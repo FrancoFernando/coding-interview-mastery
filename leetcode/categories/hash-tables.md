@@ -2,13 +2,14 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 4 problems**
+**Total: 5 problems**
 
-## Easy (3)
+## Easy (4)
 
 - **[1. Two Sum](../problems/0001-two-sum)** - [Solution](problems/0001-two-sum/solution.py)
 - **[1426. Counting Elements](../problems/1426-counting-elements)** - [Solution](problems/1426-counting-elements/solution.py)
 - **[1832. Check if the Sentence Is Pangram](../problems/1832-check-if-the-sentence-is-pangram)** - [Solution](problems/1832-check-if-the-sentence-is-pangram/solution.py)
+- **[2784. Check if Array is Good](../problems/2784-check-if-array-is-good)** - [Solution](problems/2784-check-if-array-is-good/solution.py)
 
 ## Medium (1)
 

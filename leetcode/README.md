@@ -6,9 +6,9 @@
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 15     |
-| Medium     | 37     |
-| Hard       | 2     |
+| Easy       | 16     |
+| Medium     | 35     |
+| Hard       | 3     |
 | **Total**  | **54** |
 
 ## Browse by Category
@@ -30,14 +30,40 @@
 ## Quick Actions
 
 ### Add New Problem
+
 ```bash
-python scripts/new_problem.py 1 "Two Sum" Easy
+python scripts/new_problem.py <id> "<title>" [difficulty] [categories]
+```
+
+| Arg          | Required | Default  | Notes                                                 |
+| ------------ | -------- | -------- | ----------------------------------------------------- |
+| `id`         | yes      | —        | LeetCode problem number                               |
+| `title`      | yes      | —        | Quote it; used to build the slug                      |
+| `difficulty` | no       | `Medium` | `Easy`, `Medium`, or `Hard`                           |
+| `categories` | no       | `arrays` | Comma-separated, quoted (e.g. `"arrays,hash-tables"`) |
+
+Category names are normalized to kebab-case and pluralized when needed (`Hash Table` → `hash-tables`, `array` → `arrays`). Words in the special list (`dynamic-programming`, `searching`, `sorting`, `backtracking`, `greedy`, `math`) are left as-is.
+
+Examples:
+```bash
+python scripts/new_problem.py 1 "Two Sum" Easy "arrays,hash-tables"
+python scripts/new_problem.py 42 "Trapping Rain Water" Hard "arrays,dynamic-programming"
+python scripts/new_problem.py 100 "Same Tree" Easy "trees"
 ```
 
 ### Regenerate Indexes
+
+LeetCode-only views (this README + `categories/*.md`):
 ```bash
 python scripts/generate_indexes.py
 ```
+
+Cross-platform topic pages (`topics/*/problems.md`), run from repo root:
+```bash
+python scripts/generate_topic_problems.py
+```
+
+To change a problem's categories after creation, edit its entry in [metadata.json](metadata.json) and re-run both scripts.
 
 ## All Problems
 
@@ -58,8 +84,8 @@ python scripts/generate_indexes.py
 | 78 | [Subsets](problems/0078-subsets) | Medium | backtracking |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | linked-lists |
 | 93 | [Restore IP Addresses](problems/0093-restore-ip-addresses) | Medium | backtracking |
-| 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array) | Medium | arrays |
-| 154 | [Find Minimum in Rotated Sorted Array II](problems/0154-find-minimum-in-rotated-sorted-array-ii) | Medium | arrays |
+| 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array) | Medium | arrays, searching |
+| 154 | [Find Minimum in Rotated Sorted Array II](problems/0154-find-minimum-in-rotated-sorted-array-ii) | Hard | arrays, searching |
 | 203 | [Remove Linked List Elements](problems/0203-remove-linked-list-elements) | Easy | linked-lists |
 | 215 | [Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array) | Medium | heaps |
 | 216 | [Combination Sum III](problems/0216-combination-sum-iii) | Medium | backtracking |
@@ -94,7 +120,7 @@ python scripts/generate_indexes.py
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-delete-the-middle-node-of-a-linked-list) | Medium | linked-lists |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
 | 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
-| 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Medium | arrays |
+| 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Easy | arrays, hash-tables |
 | 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
 

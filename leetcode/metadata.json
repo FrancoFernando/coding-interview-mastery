@@ -181,7 +181,7 @@
     {
       "id": 154,
       "title": "Find Minimum in Rotated Sorted Array II",
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "categories": [
         "arrays",
         "searching"
@@ -571,7 +571,7 @@
     {
       "id": 2784,
       "title": "Check if Array is Good",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "categories": [
         "arrays",
         "hash-tables"
