@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 10 problems**
+**Total: 11 problems**
 
 ## Easy (2)
 
@@ -19,9 +19,10 @@
 - **[2033. Minimum Operations to Make a Uni-Value Grid](../problems/2033-minimum-operations-to-make-a-uni-value-grid)** - [Solution](problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py)
 - **[3660. Jump Game IX](../problems/3660-jump-game-ix)** - [Solution](problems/3660-jump-game-ix/solution.py)
 
-## Hard (1)
+## Hard (2)
 
 - **[154. Find Minimum in Rotated Sorted Array II](../problems/0154-find-minimum-in-rotated-sorted-array-ii)** - [Solution](problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.py)
+- **[1665. Minimum Initial Energy to Finish Tasks](../problems/1665-minimum-initial-energy-to-finish-tasks)** - [Solution](problems/1665-minimum-initial-energy-to-finish-tasks/solution.py)
 
 ---
 

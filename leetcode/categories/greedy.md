@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 4 problems**
+**Total: 5 problems**
 
 ## Easy (3)
 
@@ -13,6 +13,10 @@
 ## Medium (1)
 
 - **[1338. Reduce Array Size to The Half](../problems/1338-reduce-array-size-to-the-half)** - [Solution](problems/1338-reduce-array-size-to-the-half/solution.py)
+
+## Hard (1)
+
+- **[1665. Minimum Initial Energy to Finish Tasks](../problems/1665-minimum-initial-energy-to-finish-tasks)** - [Solution](problems/1665-minimum-initial-energy-to-finish-tasks/solution.py)
 
 ---
 

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-54-blue)
+![Problems Solved](https://img.shields.io/badge/solved-55-blue)
 
 ## Statistics
 
@@ -8,8 +8,8 @@
 |------------|-------|
 | Easy       | 16     |
 | Medium     | 35     |
-| Hard       | 3     |
-| **Total**  | **54** |
+| Hard       | 4     |
+| **Total**  | **55** |
 
 ## Browse by Category
 
@@ -110,6 +110,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 1323 | [Maximum 69 Number](problems/1323-maximum-69-number) | Easy | greedy |
 | 1338 | [Reduce Array Size to The Half](problems/1338-reduce-array-size-to-the-half) | Medium | greedy |
 | 1426 | [Counting Elements](problems/1426-counting-elements) | Easy | hash-tables |
+| 1665 | [Minimum Initial Energy to Finish Tasks](problems/1665-minimum-initial-energy-to-finish-tasks) | Hard | arrays, greedy |
 | 1710 | [Maximum Units on a Truck](problems/1710-maximum-units-on-a-truck) | Easy | greedy |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |

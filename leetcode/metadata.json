@@ -458,6 +458,18 @@
       "date_solved": "2026-01-07"
     },
     {
+      "id": 1665,
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "difficulty": "Hard",
+      "categories": [
+        "arrays",
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "notes": "",
+      "date_solved": "2026-05-16"
+    },
+    {
       "id": 1710,
       "title": "Maximum Units on a Truck",
       "difficulty": "Easy",
