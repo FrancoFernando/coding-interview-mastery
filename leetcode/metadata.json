@@ -178,6 +178,17 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 154,
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+      "notes": "",
+      "date_solved": "2026-05-16"
+    },
+    {
       "id": 203,
       "title": "Remove Linked List Elements",
       "difficulty": "Easy",
