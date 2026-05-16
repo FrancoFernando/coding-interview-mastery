@@ -1,6 +1,6 @@
 # Linked Lists Problems
 
-_Last updated: 2026-01-31_
+_Last updated: 2026-05-16_
 
 ## LeetCode
 
@@ -18,6 +18,7 @@ _Last updated: 2026-01-31_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](../../leetcode/problems/0019-remove-nth-node-from-end-of-list/solution.py) |  |
+| 61 | [Rotate list](https://leetcode.com/problems/rotate-list/) | [Solution](../../leetcode/problems/0061-rotate-list/solution.py) |  |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](../../leetcode/problems/0328-odd-even-linked-list/solution.py) |  |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Solution](../../leetcode/problems/0707-design-linked-list/solution.py) |  |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution](../../leetcode/problems/1721-swapping-nodes-in-a-linked-list/solution.py) |  |

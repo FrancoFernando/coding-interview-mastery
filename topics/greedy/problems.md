@@ -1,6 +1,6 @@
 # Greedy Problems
 
-_Last updated: 2026-01-31_
+_Last updated: 2026-05-16_
 
 ## LeetCode
 

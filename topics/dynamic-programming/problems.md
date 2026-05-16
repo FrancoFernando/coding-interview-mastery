@@ -1,6 +1,6 @@
 # Dynamic Programming Problems
 
-_Last updated: 2026-01-31_
+_Last updated: 2026-05-16_
 
 ## LeetCode
 
@@ -16,3 +16,5 @@ _Last updated: 2026-01-31_
 |---|---------|----------|-------|
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](../../leetcode/problems/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.py) |  |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](../../leetcode/problems/0322-coin-change/solution.py) |  |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](../../leetcode/problems/0396-rotate-function/solution.py) |  |
+| 3742 | [Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [Solution](../../leetcode/problems/3742-maximum-path-score-in-a-grid/solution.py) |  |

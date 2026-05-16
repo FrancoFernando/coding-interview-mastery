@@ -171,7 +171,8 @@
       "title": "Find Minimum in Rotated Sorted Array",
       "difficulty": "Medium",
       "categories": [
-        "arrays"
+        "arrays",
+        "searching"
       ],
       "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
       "notes": "",
@@ -182,7 +183,8 @@
       "title": "Find Minimum in Rotated Sorted Array II",
       "difficulty": "Medium",
       "categories": [
-        "arrays"
+        "arrays",
+        "searching"
       ],
       "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
       "notes": "",
@@ -571,7 +573,8 @@
       "title": "Check if Array is Good",
       "difficulty": "Medium",
       "categories": [
-        "arrays"
+        "arrays",
+        "hash-tables"
       ],
       "link": "https://leetcode.com/problems/check-if-array-is-good/",
       "notes": "",

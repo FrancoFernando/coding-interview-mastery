@@ -1,6 +1,6 @@
 # Hash Tables Problems
 
-_Last updated: 2026-01-31_
+_Last updated: 2026-05-16_
 
 ## LeetCode
 
@@ -17,3 +17,4 @@ _Last updated: 2026-01-31_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Solution](../../leetcode/problems/2784-check-if-array-is-good/solution.py) |  |

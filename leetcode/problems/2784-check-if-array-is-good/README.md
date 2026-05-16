@@ -13,8 +13,6 @@ Return true if the given array is good, otherwise return false.
 
 Note: A permutation of integers represents an arrangement of these numbers.
 
- 
-
 Example 1:
 
 Input: nums = [2, 1, 3]
