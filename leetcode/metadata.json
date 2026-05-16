@@ -567,6 +567,17 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 2784,
+      "title": "Check if Array is Good",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/check-if-array-is-good/",
+      "notes": "",
+      "date_solved": "2026-05-16"
+    },
+    {
       "id": 3660,
       "title": "Jump Game IX",
       "difficulty": "Medium",
