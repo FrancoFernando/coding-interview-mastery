@@ -2,15 +2,17 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 7 problems**
+**Total: 9 problems**
 
 ## Easy (1)
 
 - **[1. Two Sum](../problems/0001-two-sum)** - [Solution](problems/0001-two-sum/solution.py)
 
-## Medium (6)
+## Medium (8)
 
 - **[48. Rotate image](../problems/0048-rotate-image)** - [Solution](problems/0048-rotate-image/solution.py)
+- **[153. Find Minimum in Rotated Sorted Array](../problems/0153-find-minimum-in-rotated-sorted-array)** - [Solution](problems/0153-find-minimum-in-rotated-sorted-array/solution.py)
+- **[154. Find Minimum in Rotated Sorted Array II](../problems/0154-find-minimum-in-rotated-sorted-array-ii)** - [Solution](problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.py)
 - **[396. Rotate Function](../problems/0396-rotate-function)** - [Solution](problems/0396-rotate-function/solution.py)
 - **[560. Subarray Sum Equals K](../problems/0560-subarray-sum-equals-k)** - [Solution](problems/0560-subarray-sum-equals-k/solution.py)
 - **[1861. Rotating the Box](../problems/1861-rotating-the-box)** - [Solution](problems/1861-rotating-the-box/solution.py)
@@ -19,4 +21,4 @@
 
 ---
 
-*Last updated: 2026-05-07*
+*Last updated: 2026-05-16*

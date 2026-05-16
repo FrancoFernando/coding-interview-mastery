@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-51-blue)
+![Problems Solved](https://img.shields.io/badge/solved-53-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 15     |
-| Medium     | 34     |
+| Medium     | 36     |
 | Hard       | 2     |
-| **Total**  | **51** |
+| **Total**  | **53** |
 
 ## Browse by Category
 
@@ -58,6 +58,8 @@ python scripts/generate_indexes.py
 | 78 | [Subsets](problems/0078-subsets) | Medium | backtracking |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | linked-lists |
 | 93 | [Restore IP Addresses](problems/0093-restore-ip-addresses) | Medium | backtracking |
+| 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array) | Medium | arrays |
+| 154 | [Find Minimum in Rotated Sorted Array II](problems/0154-find-minimum-in-rotated-sorted-array-ii) | Medium | arrays |
 | 203 | [Remove Linked List Elements](problems/0203-remove-linked-list-elements) | Easy | linked-lists |
 | 215 | [Kth Largest Element in an Array](problems/0215-kth-largest-element-in-an-array) | Medium | heaps |
 | 216 | [Combination Sum III](problems/0216-combination-sum-iii) | Medium | backtracking |
@@ -97,4 +99,4 @@ python scripts/generate_indexes.py
 
 ---
 
-*Last updated: 2026-05-07*
+*Last updated: 2026-05-16*
