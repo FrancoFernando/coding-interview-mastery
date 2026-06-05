@@ -615,6 +615,17 @@
       "date_solved": "2026-04-30"
     },
     {
+      "id": 3751,
+      "title": "Total Waviness of Numbers in Range I",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+      "notes": "",
+      "date_solved": "2026-06-05"
+    },
+    {
       "id": 3753,
       "title": "Total Waviness of Numbers in Range II",
       "difficulty": "Hard",

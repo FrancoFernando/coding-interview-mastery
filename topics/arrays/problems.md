@@ -22,6 +22,7 @@ _Last updated: 2026-06-05_
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Solution](../../leetcode/problems/1861-rotating-the-box/solution.py) |  |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Solution](../../leetcode/problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py) |  |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Solution](../../leetcode/problems/3660-jump-game-ix/solution.py) |  |
+| 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Solution](../../leetcode/problems/3751-total-waviness-of-numbers-in-range-i/solution.py) |  |
 
 ### Hard
 

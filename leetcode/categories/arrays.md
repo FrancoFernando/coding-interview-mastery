@@ -2,14 +2,14 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 11 problems**
+**Total: 12 problems**
 
 ## Easy (2)
 
 - **[1. Two Sum](../problems/0001-two-sum)** - [Solution](problems/0001-two-sum/solution.py)
 - **[2784. Check if Array is Good](../problems/2784-check-if-array-is-good)** - [Solution](problems/2784-check-if-array-is-good/solution.py)
 
-## Medium (7)
+## Medium (8)
 
 - **[48. Rotate image](../problems/0048-rotate-image)** - [Solution](problems/0048-rotate-image/solution.py)
 - **[153. Find Minimum in Rotated Sorted Array](../problems/0153-find-minimum-in-rotated-sorted-array)** - [Solution](problems/0153-find-minimum-in-rotated-sorted-array/solution.py)
@@ -18,6 +18,7 @@
 - **[1861. Rotating the Box](../problems/1861-rotating-the-box)** - [Solution](problems/1861-rotating-the-box/solution.py)
 - **[2033. Minimum Operations to Make a Uni-Value Grid](../problems/2033-minimum-operations-to-make-a-uni-value-grid)** - [Solution](problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py)
 - **[3660. Jump Game IX](../problems/3660-jump-game-ix)** - [Solution](problems/3660-jump-game-ix/solution.py)
+- **[3751. Total Waviness of Numbers in Range I](../problems/3751-total-waviness-of-numbers-in-range-i)** - [Solution](problems/3751-total-waviness-of-numbers-in-range-i/solution.py)
 
 ## Hard (2)
 
