@@ -613,6 +613,17 @@
       "link": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
       "notes": "",
       "date_solved": "2026-04-30"
+    },
+    {
+      "id": 3753,
+      "title": "Total Waviness of Numbers in Range II",
+      "difficulty": "Hard",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "notes": "",
+      "date_solved": "2026-06-05"
     }
   ]
 }

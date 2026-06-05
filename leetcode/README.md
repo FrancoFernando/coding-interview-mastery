@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-55-blue)
+![Problems Solved](https://img.shields.io/badge/solved-56-blue)
 
 ## Statistics
 
@@ -8,8 +8,8 @@
 |------------|-------|
 | Easy       | 16     |
 | Medium     | 35     |
-| Hard       | 4     |
-| **Total**  | **55** |
+| Hard       | 5     |
+| **Total**  | **56** |
 
 ## Browse by Category
 
@@ -124,7 +124,8 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Easy | arrays, hash-tables |
 | 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
+| 3753 | [Total Waviness of Numbers in Range II](problems/3753-total-waviness-of-numbers-in-range-ii) | Hard | dynamic-programming |
 
 ---
 
-*Last updated: 2026-05-16*
+*Last updated: 2026-06-05*

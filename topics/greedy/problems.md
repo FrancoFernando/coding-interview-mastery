@@ -1,6 +1,6 @@
 # Greedy Problems
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-06-05_
 
 ## LeetCode
 
@@ -17,3 +17,9 @@ _Last updated: 2026-05-16_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Solution](../../leetcode/problems/1338-reduce-array-size-to-the-half/solution.py) |  |
+
+### Hard
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](../../leetcode/problems/1665-minimum-initial-energy-to-finish-tasks/solution.py) |  |
