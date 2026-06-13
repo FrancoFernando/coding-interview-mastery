@@ -604,6 +604,18 @@
       "date_solved": "2026-05-07"
     },
     {
+      "id": 3691,
+      "title": "Maximum Total Subarray Value II",
+      "difficulty": "Hard",
+      "categories": [
+        "heaps",
+        "greedy"
+      ],
+      "link": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "notes": "",
+      "date_solved": "2026-06-13"
+    },
+    {
       "id": 3742,
       "title": "Maximum Path Score in a Grid",
       "difficulty": "Medium",

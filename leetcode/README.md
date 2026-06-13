@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-57-blue)
+![Problems Solved](https://img.shields.io/badge/solved-58-blue)
 
 ## Statistics
 
@@ -8,8 +8,8 @@
 |------------|-------|
 | Easy       | 16     |
 | Medium     | 36     |
-| Hard       | 5     |
-| **Total**  | **57** |
+| Hard       | 6     |
+| **Total**  | **58** |
 
 ## Browse by Category
 
@@ -123,10 +123,11 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
 | 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Easy | arrays, hash-tables |
 | 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
+| 3691 | [Maximum Total Subarray Value II](problems/3691-maximum-total-subarray-value-ii) | Hard | heaps, greedy |
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
 | 3751 | [Total Waviness of Numbers in Range I](problems/3751-total-waviness-of-numbers-in-range-i) | Medium | arrays |
 | 3753 | [Total Waviness of Numbers in Range II](problems/3753-total-waviness-of-numbers-in-range-ii) | Hard | dynamic-programming |
 
 ---
 
-*Last updated: 2026-06-05*
+*Last updated: 2026-06-13*

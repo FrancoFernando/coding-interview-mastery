@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 5 problems**
+**Total: 6 problems**
 
 ## Easy (1)
 
@@ -15,6 +15,10 @@
 - **[1167. Minimum Cost to Connect Sticks](../problems/1167-minimum-cost-to-connect-sticks)** - [Solution](problems/1167-minimum-cost-to-connect-sticks/solution.py)
 - **[1962. Remove Stones to Minimize the Total](../problems/1962-remove-stones-to-minimize-the-total)** - [Solution](problems/1962-remove-stones-to-minimize-the-total/solution.py)
 
+## Hard (1)
+
+- **[3691. Maximum Total Subarray Value II](../problems/3691-maximum-total-subarray-value-ii)** - [Solution](problems/3691-maximum-total-subarray-value-ii/solution.py)
+
 ---
 
-*Last updated: 2026-06-05*
+*Last updated: 2026-06-13*

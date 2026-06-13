@@ -15,13 +15,13 @@
 **1 problems** - Easy: 0, Medium: 1, Hard: 0
 
 ## [greedy](greedy.md)
-**5 problems** - Easy: 3, Medium: 1, Hard: 1
+**6 problems** - Easy: 3, Medium: 1, Hard: 2
 
 ## [hash-tables](hash-tables.md)
 **5 problems** - Easy: 4, Medium: 1, Hard: 0
 
 ## [heaps](heaps.md)
-**5 problems** - Easy: 1, Medium: 4, Hard: 0
+**6 problems** - Easy: 1, Medium: 4, Hard: 1
 
 ## [linked-lists](linked-lists.md)
 **12 problems** - Easy: 4, Medium: 8, Hard: 0

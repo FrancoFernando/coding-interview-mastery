@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 5 problems**
+**Total: 6 problems**
 
 ## Easy (3)
 
@@ -14,10 +14,11 @@
 
 - **[1338. Reduce Array Size to The Half](../problems/1338-reduce-array-size-to-the-half)** - [Solution](problems/1338-reduce-array-size-to-the-half/solution.py)
 
-## Hard (1)
+## Hard (2)
 
 - **[1665. Minimum Initial Energy to Finish Tasks](../problems/1665-minimum-initial-energy-to-finish-tasks)** - [Solution](problems/1665-minimum-initial-energy-to-finish-tasks/solution.py)
+- **[3691. Maximum Total Subarray Value II](../problems/3691-maximum-total-subarray-value-ii)** - [Solution](problems/3691-maximum-total-subarray-value-ii/solution.py)
 
 ---
 
-*Last updated: 2026-06-05*
+*Last updated: 2026-06-13*

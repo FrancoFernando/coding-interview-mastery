@@ -1,6 +1,6 @@
 # Heaps Problems
 
-_Last updated: 2026-06-05_
+_Last updated: 2026-06-13_
 
 ## LeetCode
 
@@ -18,3 +18,9 @@ _Last updated: 2026-06-05_
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](../../leetcode/problems/0973-k-closest-points-to-origin/solution.py) |  |
 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [Solution](../../leetcode/problems/1167-minimum-cost-to-connect-sticks/solution.py) |  |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Solution](../../leetcode/problems/1962-remove-stones-to-minimize-the-total/solution.py) |  |
+
+### Hard
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Solution](../../leetcode/problems/3691-maximum-total-subarray-value-ii/solution.py) |  |
