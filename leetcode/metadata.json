@@ -593,6 +593,28 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 3633,
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "notes": "",
+      "date_solved": "2026-06-13"
+    },
+    {
+      "id": 3635,
+      "title": "Earliest Finish Time for Land and Water Rides II",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/",
+      "notes": "",
+      "date_solved": "2026-06-13"
+    },
+    {
       "id": 3660,
       "title": "Jump Game IX",
       "difficulty": "Medium",
