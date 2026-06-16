@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-60-blue)
+![Problems Solved](https://img.shields.io/badge/solved-61-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 16     |
-| Medium     | 38     |
+| Medium     | 39     |
 | Hard       | 6     |
-| **Total**  | **60** |
+| **Total**  | **61** |
 
 ## Browse by Category
 
@@ -122,6 +122,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
 | 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
 | 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Easy | arrays, hash-tables |
+| 3612 | [Process String with Special Operations I](problems/3612-process-string-with-special-operations-i) | Medium | strings |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](problems/3633-earliest-finish-time-for-land-and-water-rides-i) | Medium | arrays |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](problems/3635-earliest-finish-time-for-land-and-water-rides-ii) | Medium | arrays |
 | 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
@@ -132,4 +133,4 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 
 ---
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-16*
