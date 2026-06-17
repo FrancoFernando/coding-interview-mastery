@@ -33,5 +33,5 @@
 **6 problems** - Easy: 2, Medium: 2, Hard: 2
 
 ## [strings](strings.md)
-**2 problems** - Easy: 2, Medium: 0, Hard: 0
+**3 problems** - Easy: 2, Medium: 0, Hard: 1
 

@@ -593,6 +593,17 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 3614,
+      "title": "Process String with Special Operations II",
+      "difficulty": "Hard",
+      "categories": [
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+      "notes": "",
+      "date_solved": "2026-06-17"
+    },
+    {
       "id": 3633,
       "title": "Earliest Finish Time for Land and Water Rides I",
       "difficulty": "Medium",
