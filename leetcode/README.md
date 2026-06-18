@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-61-blue)
+![Problems Solved](https://img.shields.io/badge/solved-62-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 16     |
-| Medium     | 38     |
+| Medium     | 39     |
 | Hard       | 7     |
-| **Total**  | **61** |
+| **Total**  | **62** |
 
 ## Browse by Category
 
@@ -109,6 +109,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | linked-lists |
 | 1323 | [Maximum 69 Number](problems/1323-maximum-69-number) | Easy | greedy |
 | 1338 | [Reduce Array Size to The Half](problems/1338-reduce-array-size-to-the-half) | Medium | greedy |
+| 1344 | [Angle Between Hands of a Clock](problems/1344-angle-between-hands-of-a-clock) | Medium | math |
 | 1426 | [Counting Elements](problems/1426-counting-elements) | Easy | hash-tables |
 | 1665 | [Minimum Initial Energy to Finish Tasks](problems/1665-minimum-initial-energy-to-finish-tasks) | Hard | arrays, greedy |
 | 1710 | [Maximum Units on a Truck](problems/1710-maximum-units-on-a-truck) | Easy | greedy |
@@ -133,4 +134,4 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 
 ---
 
-*Last updated: 2026-06-17*
+*Last updated: 2026-06-18*

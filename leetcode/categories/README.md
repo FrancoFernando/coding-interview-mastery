@@ -27,7 +27,7 @@
 **12 problems** - Easy: 4, Medium: 8, Hard: 0
 
 ## [math](math.md)
-**1 problems** - Easy: 0, Medium: 1, Hard: 0
+**2 problems** - Easy: 0, Medium: 2, Hard: 0
 
 ## [searching](searching.md)
 **6 problems** - Easy: 2, Medium: 2, Hard: 2
