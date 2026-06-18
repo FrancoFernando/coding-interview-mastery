@@ -11,6 +11,12 @@ _Last updated: 2026-06-18_
 | 796 | [Rotate string](https://leetcode.com/problems/rotate-string/) | [Solution](../../leetcode/problems/0796-rotate-string/solution.py) |  |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Solution](../../leetcode/problems/1832-check-if-the-sentence-is-pangram/solution.py) |  |
 
+### Medium
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Solution](../../leetcode/problems/3612-process-string-with-special-operations-i/solution.py) |  |
+
 ### Hard
 
 | # | Problem | Solution | Notes |

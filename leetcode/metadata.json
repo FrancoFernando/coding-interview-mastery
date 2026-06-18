@@ -604,6 +604,17 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 3612,
+      "title": "Process String with Special Operations I",
+      "difficulty": "Medium",
+      "categories": [
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+      "notes": "",
+      "date_solved": "2026-06-16"
+    },
+    {
       "id": 3614,
       "title": "Process String with Special Operations II",
       "difficulty": "Hard",
