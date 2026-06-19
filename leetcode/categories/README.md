@@ -3,7 +3,7 @@
 [← Back to LeetCode](../README.md)
 
 ## [arrays](arrays.md)
-**14 problems** - Easy: 2, Medium: 10, Hard: 2
+**15 problems** - Easy: 3, Medium: 10, Hard: 2
 
 ## [backtracking](backtracking.md)
 **11 problems** - Easy: 0, Medium: 10, Hard: 1
@@ -18,7 +18,7 @@
 **6 problems** - Easy: 3, Medium: 1, Hard: 2
 
 ## [hash-tables](hash-tables.md)
-**5 problems** - Easy: 4, Medium: 1, Hard: 0
+**6 problems** - Easy: 4, Medium: 2, Hard: 0
 
 ## [heaps](heaps.md)
 **6 problems** - Easy: 1, Medium: 4, Hard: 1
@@ -33,5 +33,8 @@
 **6 problems** - Easy: 2, Medium: 2, Hard: 2
 
 ## [strings](strings.md)
-**4 problems** - Easy: 2, Medium: 1, Hard: 1
+**5 problems** - Easy: 3, Medium: 1, Hard: 1
+
+## [trees](trees.md)
+**1 problems** - Easy: 0, Medium: 1, Hard: 0
 

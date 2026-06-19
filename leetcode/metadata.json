@@ -503,6 +503,17 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 1732,
+      "title": "Find the Highest Altitude",
+      "difficulty": "Easy",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "notes": "",
+      "date_solved": "2026-06-19"
+    },
+    {
       "id": 1832,
       "title": "Check if the Sentence Is Pangram",
       "difficulty": "Easy",

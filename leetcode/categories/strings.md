@@ -2,12 +2,13 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 4 problems**
+**Total: 5 problems**
 
-## Easy (2)
+## Easy (3)
 
 - **[796. Rotate string](../problems/0796-rotate-string)** - [Solution](problems/0796-rotate-string/solution.py)
 - **[1832. Check if the Sentence Is Pangram](../problems/1832-check-if-the-sentence-is-pangram)** - [Solution](problems/1832-check-if-the-sentence-is-pangram/solution.py)
+- **[3838. Weighted Word Mapping](../problems/3838-weighted-word-mapping)** - [Solution](problems/3838-weighted-word-mapping/solution.py)
 
 ## Medium (1)
 
@@ -19,4 +20,4 @@
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*

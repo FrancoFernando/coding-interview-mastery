@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-63-blue)
+![Problems Solved](https://img.shields.io/badge/solved-66-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 16     |
-| Medium     | 40     |
+| Easy       | 18     |
+| Medium     | 41     |
 | Hard       | 7     |
-| **Total**  | **63** |
+| **Total**  | **66** |
 
 ## Browse by Category
 
@@ -24,6 +24,7 @@
 - [math](categories/math.md)
 - [searching](categories/searching.md)
 - [strings](categories/strings.md)
+- [trees](categories/trees.md)
 
 [View All](categories/)
 
@@ -114,6 +115,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 1665 | [Minimum Initial Energy to Finish Tasks](problems/1665-minimum-initial-energy-to-finish-tasks) | Hard | arrays, greedy |
 | 1710 | [Maximum Units on a Truck](problems/1710-maximum-units-on-a-truck) | Easy | greedy |
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
+| 1732 | [Find the Highest Altitude](problems/1732-find-the-highest-altitude) | Easy | arrays |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |
 | 1861 | [Rotating the Box](problems/1861-rotating-the-box) | Medium | arrays |
 | 1962 | [Remove Stones to Minimize the Total](problems/1962-remove-stones-to-minimize-the-total) | Medium | heaps |
@@ -121,6 +123,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 2074 | [Reverse Nodes in Even Length Groups](problems/2074-reverse-nodes-in-even-length-groups) | Medium | linked-lists |
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-delete-the-middle-node-of-a-linked-list) | Medium | linked-lists |
 | 2130 | [Maximum Twin Sum of a Linked List](problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | linked-lists |
+| 2196 | [Create Binary Tree From Descriptions](problems/2196-create-binary-tree-from-descriptions) | Medium | trees, hash-tables |
 | 2389 | [Longest Subsequence With Limited Sum](problems/2389-longest-subsequence-with-limited-sum) | Easy | searching |
 | 2784 | [Check if Array is Good](problems/2784-check-if-array-is-good) | Easy | arrays, hash-tables |
 | 3612 | [Process String with Special Operations I](problems/3612-process-string-with-special-operations-i) | Medium | strings |
@@ -132,7 +135,8 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
 | 3751 | [Total Waviness of Numbers in Range I](problems/3751-total-waviness-of-numbers-in-range-i) | Medium | arrays |
 | 3753 | [Total Waviness of Numbers in Range II](problems/3753-total-waviness-of-numbers-in-range-ii) | Hard | dynamic-programming |
+| 3838 | [Weighted Word Mapping](problems/3838-weighted-word-mapping) | Easy | strings |
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*
