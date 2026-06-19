@@ -581,6 +581,18 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 2196,
+      "title": "Create Binary Tree From Descriptions",
+      "difficulty": "Medium",
+      "categories": [
+        "trees",
+        "hash-tables"
+      ],
+      "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "notes": "",
+      "date_solved": "2026-06-19"
+    },
+    {
       "id": 2389,
       "title": "Longest Subsequence With Limited Sum",
       "difficulty": "Easy",
