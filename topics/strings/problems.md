@@ -10,6 +10,7 @@ _Last updated: 2026-06-19_
 |---|---------|----------|-------|
 | 796 | [Rotate string](https://leetcode.com/problems/rotate-string/) | [Solution](../../leetcode/problems/0796-rotate-string/solution.py) |  |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Solution](../../leetcode/problems/1832-check-if-the-sentence-is-pangram/solution.py) |  |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](../../leetcode/problems/3838-weighted-word-mapping/solution.py) |  |
 
 ### Medium
 
