@@ -1,6 +1,6 @@
 # Hash Tables Problems
 
-_Last updated: 2026-06-18_
+_Last updated: 2026-06-19_
 
 ## LeetCode
 
@@ -18,3 +18,4 @@ _Last updated: 2026-06-18_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](../../leetcode/problems/2196-create-binary-tree-from-descriptions/solution.py) |  |

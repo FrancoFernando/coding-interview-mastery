@@ -1,6 +1,6 @@
 # Graphs Problems
 
-_Last updated: 2026-06-18_
+_Last updated: 2026-06-19_
 
 ## LeetCode
 

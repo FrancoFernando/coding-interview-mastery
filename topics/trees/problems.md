@@ -1,5 +1,11 @@
 # Trees Problems
 
-_Last updated: 2026-06-18_
+_Last updated: 2026-06-19_
 
-No problems linked to this topic yet.
+## LeetCode
+
+### Medium
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](../../leetcode/problems/2196-create-binary-tree-from-descriptions/solution.py) |  |
