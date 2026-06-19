@@ -714,6 +714,17 @@
       "link": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
       "notes": "",
       "date_solved": "2026-06-05"
+    },
+    {
+      "id": 3838,
+      "title": "Weighted Word Mapping",
+      "difficulty": "Easy",
+      "categories": [
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/weighted-word-mapping/",
+      "notes": "",
+      "date_solved": "2026-06-19"
     }
   ]
 }
