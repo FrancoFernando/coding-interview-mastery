@@ -1,6 +1,6 @@
 # Greedy Problems
 
-_Last updated: 2026-06-19_
+_Last updated: 2026-06-20_
 
 ## LeetCode
 
@@ -23,4 +23,5 @@ _Last updated: 2026-06-19_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](../../leetcode/problems/1665-minimum-initial-energy-to-finish-tasks/solution.py) |  |
+| 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/) | [Solution](../../leetcode/problems/1840-maximum-building-height/solution.py) |  |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Solution](../../leetcode/problems/3691-maximum-total-subarray-value-ii/solution.py) |  |

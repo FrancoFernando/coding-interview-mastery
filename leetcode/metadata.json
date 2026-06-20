@@ -515,6 +515,18 @@
       "date_solved": "2026-01-07"
     },
     {
+      "id": 1840,
+      "title": "Maximum Building Height",
+      "difficulty": "Hard",
+      "categories": [
+        "greedy",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/maximum-building-height/",
+      "notes": "",
+      "date_solved": "2026-06-20"
+    },
+    {
       "id": 1861,
       "title": "Rotating the Box",
       "difficulty": "Medium",
