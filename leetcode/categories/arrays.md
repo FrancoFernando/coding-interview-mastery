@@ -2,11 +2,12 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 14 problems**
+**Total: 15 problems**
 
-## Easy (2)
+## Easy (3)
 
 - **[1. Two Sum](../problems/0001-two-sum)** - [Solution](problems/0001-two-sum/solution.py)
+- **[1732. Find the Highest Altitude](../problems/1732-find-the-highest-altitude)** - [Solution](problems/1732-find-the-highest-altitude/solution.py)
 - **[2784. Check if Array is Good](../problems/2784-check-if-array-is-good)** - [Solution](problems/2784-check-if-array-is-good/solution.py)
 
 ## Medium (10)
@@ -29,4 +30,4 @@
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*

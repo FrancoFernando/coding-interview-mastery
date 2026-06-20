@@ -9,6 +9,7 @@ _Last updated: 2026-06-20_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](../../leetcode/problems/0001-two-sum/solution.py) |  |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Solution](../../leetcode/problems/1732-find-the-highest-altitude/solution.py) |  |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Solution](../../leetcode/problems/2784-check-if-array-is-good/solution.py) |  |
 
 ### Medium

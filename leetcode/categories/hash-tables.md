@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 5 problems**
+**Total: 6 problems**
 
 ## Easy (4)
 
@@ -11,10 +11,11 @@
 - **[1832. Check if the Sentence Is Pangram](../problems/1832-check-if-the-sentence-is-pangram)** - [Solution](problems/1832-check-if-the-sentence-is-pangram/solution.py)
 - **[2784. Check if Array is Good](../problems/2784-check-if-array-is-good)** - [Solution](problems/2784-check-if-array-is-good/solution.py)
 
-## Medium (1)
+## Medium (2)
 
 - **[560. Subarray Sum Equals K](../problems/0560-subarray-sum-equals-k)** - [Solution](problems/0560-subarray-sum-equals-k/solution.py)
+- **[2196. Create Binary Tree From Descriptions](../problems/2196-create-binary-tree-from-descriptions)** - [Solution](problems/2196-create-binary-tree-from-descriptions/solution.py)
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*
