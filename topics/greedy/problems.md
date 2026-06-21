@@ -1,6 +1,6 @@
 # Greedy Problems
 
-_Last updated: 2026-06-20_
+_Last updated: 2026-06-21_
 
 ## LeetCode
 
@@ -17,6 +17,7 @@ _Last updated: 2026-06-20_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Solution](../../leetcode/problems/1338-reduce-array-size-to-the-half/solution.py) |  |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Solution](../../leetcode/problems/1833-maximum-ice-cream-bars/solution.py) |  |
 
 ### Hard
 

@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python scripts/generate_indexes.py)",
-      "Bash(mkdir -p /Users/feranco/Documents/repos/coding-interview-preparation/leetcode/problems/2196-create-binary-tree-from-descriptions)"
+      "Bash(mkdir -p /Users/feranco/Documents/repos/coding-interview-preparation/leetcode/problems/2196-create-binary-tree-from-descriptions)",
+      "Bash(git -C /Users/feranco/Documents/repos/coding-interview-preparation merge origin/main --no-edit)"
     ],
     "additionalDirectories": [
       "/Users/feranco/Documents/repos/coding-interview-preparation/leetcode/problems"

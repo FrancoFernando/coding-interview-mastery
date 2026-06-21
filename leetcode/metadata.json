@@ -526,6 +526,18 @@
       "date_solved": "2026-01-07"
     },
     {
+      "id": 1833,
+      "title": "Maximum Ice Cream Bars",
+      "difficulty": "Medium",
+      "categories": [
+        "greedy",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "notes": "",
+      "date_solved": "2026-06-21"
+    },
+    {
       "id": 1840,
       "title": "Maximum Building Height",
       "difficulty": "Hard",
