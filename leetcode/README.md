@@ -1,15 +1,15 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-66-blue)
+![Problems Solved](https://img.shields.io/badge/solved-69-blue)
 
 ## Statistics
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 18     |
-| Medium     | 41     |
-| Hard       | 7     |
-| **Total**  | **66** |
+| Easy       | 19     |
+| Medium     | 42     |
+| Hard       | 8     |
+| **Total**  | **69** |
 
 ## Browse by Category
 
@@ -23,6 +23,7 @@
 - [linked-lists](categories/linked-lists.md)
 - [math](categories/math.md)
 - [searching](categories/searching.md)
+- [sorting](categories/sorting.md)
 - [strings](categories/strings.md)
 - [trees](categories/trees.md)
 
@@ -104,6 +105,7 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 967 | [Numbers With Same Consecutive Differences](problems/0967-numbers-with-same-consecutive-differences) | Medium | backtracking |
 | 973 | [K Closest Points to Origin](problems/0973-k-closest-points-to-origin) | Medium | heaps |
 | 1167 | [Minimum Cost to Connect Sticks](problems/1167-minimum-cost-to-connect-sticks) | Medium | heaps |
+| 1189 | [Maximum Number of Balloons](problems/1189-maximum-number-of-balloons) | Easy | hash-tables, strings |
 | 1196 | [How Many Apples Can You Put into the Basket](problems/1196-how-many-apples-can-you-put-into-the-basket) | Easy | greedy |
 | 1231 | [Divide Chocolate](problems/1231-divide-chocolate) | Hard | searching |
 | 1283 | [Find the Smallest Divisor Given a Threshold](problems/1283-find-the-smallest-divisor-given-a-threshold) | Medium | searching |
@@ -117,6 +119,8 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 1721 | [Swapping Nodes in a Linked List](problems/1721-swapping-nodes-in-a-linked-list) | Medium | linked-lists |
 | 1732 | [Find the Highest Altitude](problems/1732-find-the-highest-altitude) | Easy | arrays |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-check-if-the-sentence-is-pangram) | Easy | hash-tables, strings |
+| 1833 | [Maximum Ice Cream Bars](problems/1833-maximum-ice-cream-bars) | Medium | greedy, sorting |
+| 1840 | [Maximum Building Height](problems/1840-maximum-building-height) | Hard | greedy, sorting |
 | 1861 | [Rotating the Box](problems/1861-rotating-the-box) | Medium | arrays |
 | 1962 | [Remove Stones to Minimize the Total](problems/1962-remove-stones-to-minimize-the-total) | Medium | heaps |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](problems/2033-minimum-operations-to-make-a-uni-value-grid) | Medium | arrays |
@@ -139,4 +143,4 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 
 ---
 
-*Last updated: 2026-06-19*
+*Last updated: 2026-06-22*

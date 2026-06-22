@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 6 problems**
+**Total: 8 problems**
 
 ## Easy (3)
 
@@ -10,15 +10,17 @@
 - **[1323. Maximum 69 Number](../problems/1323-maximum-69-number)** - [Solution](problems/1323-maximum-69-number/solution.py)
 - **[1710. Maximum Units on a Truck](../problems/1710-maximum-units-on-a-truck)** - [Solution](problems/1710-maximum-units-on-a-truck/solution.py)
 
-## Medium (1)
+## Medium (2)
 
 - **[1338. Reduce Array Size to The Half](../problems/1338-reduce-array-size-to-the-half)** - [Solution](problems/1338-reduce-array-size-to-the-half/solution.py)
+- **[1833. Maximum Ice Cream Bars](../problems/1833-maximum-ice-cream-bars)** - [Solution](problems/1833-maximum-ice-cream-bars/solution.py)
 
-## Hard (2)
+## Hard (3)
 
 - **[1665. Minimum Initial Energy to Finish Tasks](../problems/1665-minimum-initial-energy-to-finish-tasks)** - [Solution](problems/1665-minimum-initial-energy-to-finish-tasks/solution.py)
+- **[1840. Maximum Building Height](../problems/1840-maximum-building-height)** - [Solution](problems/1840-maximum-building-height/solution.py)
 - **[3691. Maximum Total Subarray Value II](../problems/3691-maximum-total-subarray-value-ii)** - [Solution](problems/3691-maximum-total-subarray-value-ii/solution.py)
 
 ---
 
-*Last updated: 2026-06-19*
+*Last updated: 2026-06-22*

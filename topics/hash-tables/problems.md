@@ -1,6 +1,6 @@
 # Hash Tables Problems
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-06-22_
 
 ## LeetCode
 
@@ -9,6 +9,7 @@ _Last updated: 2026-06-21_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](../../leetcode/problems/0001-two-sum/solution.py) |  |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Solution](../../leetcode/problems/1189-maximum-number-of-balloons/solution.py) |  |
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [Solution](../../leetcode/problems/1426-counting-elements/solution.py) |  |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Solution](../../leetcode/problems/1832-check-if-the-sentence-is-pangram/solution.py) |  |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Solution](../../leetcode/problems/2784-check-if-array-is-good/solution.py) |  |

@@ -15,10 +15,10 @@
 **1 problems** - Easy: 0, Medium: 1, Hard: 0
 
 ## [greedy](greedy.md)
-**6 problems** - Easy: 3, Medium: 1, Hard: 2
+**8 problems** - Easy: 3, Medium: 2, Hard: 3
 
 ## [hash-tables](hash-tables.md)
-**6 problems** - Easy: 4, Medium: 2, Hard: 0
+**7 problems** - Easy: 5, Medium: 2, Hard: 0
 
 ## [heaps](heaps.md)
 **6 problems** - Easy: 1, Medium: 4, Hard: 1
@@ -32,8 +32,11 @@
 ## [searching](searching.md)
 **6 problems** - Easy: 2, Medium: 2, Hard: 2
 
+## [sorting](sorting.md)
+**2 problems** - Easy: 0, Medium: 1, Hard: 1
+
 ## [strings](strings.md)
-**5 problems** - Easy: 3, Medium: 1, Hard: 1
+**6 problems** - Easy: 4, Medium: 1, Hard: 1
 
 ## [trees](trees.md)
 **1 problems** - Easy: 0, Medium: 1, Hard: 0
