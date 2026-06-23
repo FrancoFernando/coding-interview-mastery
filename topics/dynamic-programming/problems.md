@@ -1,6 +1,6 @@
 # Dynamic Programming Problems
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-06-23_
 
 ## LeetCode
 
@@ -23,4 +23,5 @@ _Last updated: 2026-06-22_
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
+| 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Solution](../../leetcode/problems/3699-number-of-zigzag-arrays-i/solution.py) |  |
 | 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Solution](../../leetcode/problems/3753-total-waviness-of-numbers-in-range-ii/solution.py) |  |
