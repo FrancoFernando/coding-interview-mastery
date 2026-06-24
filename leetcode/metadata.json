@@ -774,6 +774,17 @@
       "date_solved": "2026-06-23"
     },
     {
+      "id": 3700,
+      "title": "Number of ZigZag Arrays II",
+      "difficulty": "Hard",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/",
+      "notes": "",
+      "date_solved": "2026-06-23"
+    },
+    {
       "id": 3838,
       "title": "Weighted Word Mapping",
       "difficulty": "Easy",
