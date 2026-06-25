@@ -730,6 +730,17 @@
       "date_solved": "2026-06-13"
     },
     {
+      "id": 3737,
+      "title": "Count Subarrays With Majority Element I",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "notes": "",
+      "date_solved": "2026-06-25"
+    },
+    {
       "id": 3742,
       "title": "Maximum Path Score in a Grid",
       "difficulty": "Medium",
