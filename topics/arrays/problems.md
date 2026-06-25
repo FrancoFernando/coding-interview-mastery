@@ -1,6 +1,6 @@
 # Arrays Problems
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-06-25_
 
 ## LeetCode
 
@@ -25,6 +25,7 @@ _Last updated: 2026-06-23_
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](../../leetcode/problems/3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) |  |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Solution](../../leetcode/problems/3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) |  |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Solution](../../leetcode/problems/3660-jump-game-ix/solution.py) |  |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Solution](../../leetcode/problems/3737-count-subarrays-with-majority-element-i/solution.py) |  |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Solution](../../leetcode/problems/3751-total-waviness-of-numbers-in-range-i/solution.py) |  |
 
 ### Hard

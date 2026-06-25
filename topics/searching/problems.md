@@ -1,6 +1,6 @@
 # Searching Problems
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-06-25_
 
 ## LeetCode
 
