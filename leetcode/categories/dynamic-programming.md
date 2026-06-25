@@ -2,7 +2,7 @@
 
 [← Back to LeetCode](../README.md)
 
-**Total: 6 problems**
+**Total: 8 problems**
 
 ## Easy (1)
 
@@ -15,10 +15,12 @@
 - **[396. Rotate Function](../problems/0396-rotate-function)** - [Solution](problems/0396-rotate-function/solution.py)
 - **[3742. Maximum Path Score in a Grid](../problems/3742-maximum-path-score-in-a-grid)** - [Solution](problems/3742-maximum-path-score-in-a-grid/solution.py)
 
-## Hard (1)
+## Hard (3)
 
+- **[3699. Number of ZigZag Arrays I](../problems/3699-number-of-zigzag-arrays-i)** - [Solution](problems/3699-number-of-zigzag-arrays-i/solution.py)
+- **[3700. Number of ZigZag Arrays II](../problems/3700-number-of-zigzag-arrays-ii)** - [Solution](problems/3700-number-of-zigzag-arrays-ii/solution.py)
 - **[3753. Total Waviness of Numbers in Range II](../problems/3753-total-waviness-of-numbers-in-range-ii)** - [Solution](problems/3753-total-waviness-of-numbers-in-range-ii/solution.py)
 
 ---
 
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-24*

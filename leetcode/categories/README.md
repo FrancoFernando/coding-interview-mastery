@@ -9,7 +9,7 @@
 **11 problems** - Easy: 0, Medium: 10, Hard: 1
 
 ## [dynamic-programming](dynamic-programming.md)
-**6 problems** - Easy: 1, Medium: 4, Hard: 1
+**8 problems** - Easy: 1, Medium: 4, Hard: 3
 
 ## [graphs](graphs.md)
 **1 problems** - Easy: 0, Medium: 1, Hard: 0

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-![Problems Solved](https://img.shields.io/badge/solved-69-blue)
+![Problems Solved](https://img.shields.io/badge/solved-71-blue)
 
 ## Statistics
 
@@ -8,8 +8,8 @@
 |------------|-------|
 | Easy       | 19     |
 | Medium     | 42     |
-| Hard       | 8     |
-| **Total**  | **69** |
+| Hard       | 10     |
+| **Total**  | **71** |
 
 ## Browse by Category
 
@@ -136,6 +136,8 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 | 3635 | [Earliest Finish Time for Land and Water Rides II](problems/3635-earliest-finish-time-for-land-and-water-rides-ii) | Medium | arrays |
 | 3660 | [Jump Game IX](problems/3660-jump-game-ix) | Medium | arrays |
 | 3691 | [Maximum Total Subarray Value II](problems/3691-maximum-total-subarray-value-ii) | Hard | heaps, greedy |
+| 3699 | [Number of ZigZag Arrays I](problems/3699-number-of-zigzag-arrays-i) | Hard | dynamic-programming |
+| 3700 | [Number of ZigZag Arrays II](problems/3700-number-of-zigzag-arrays-ii) | Hard | dynamic-programming |
 | 3742 | [Maximum Path Score in a Grid](problems/3742-maximum-path-score-in-a-grid) | Medium | dynamic-programming |
 | 3751 | [Total Waviness of Numbers in Range I](problems/3751-total-waviness-of-numbers-in-range-i) | Medium | arrays |
 | 3753 | [Total Waviness of Numbers in Range II](problems/3753-total-waviness-of-numbers-in-range-ii) | Hard | dynamic-programming |
@@ -143,4 +145,4 @@ To change a problem's categories after creation, edit its entry in [metadata.jso
 
 ---
 
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-24*
