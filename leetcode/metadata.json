@@ -741,6 +741,17 @@
       "date_solved": "2026-06-25"
     },
     {
+      "id": 3739,
+      "title": "Count Subarrays With Majority Element II",
+      "difficulty": "Hard",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/",
+      "notes": "",
+      "date_solved": "2026-06-26"
+    },
+    {
       "id": 3742,
       "title": "Maximum Path Score in a Grid",
       "difficulty": "Medium",

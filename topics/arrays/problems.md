@@ -1,6 +1,6 @@
 # Arrays Problems
 
-_Last updated: 2026-06-25_
+_Last updated: 2026-06-26_
 
 ## LeetCode
 
@@ -34,3 +34,4 @@ _Last updated: 2026-06-25_
 |---|---------|----------|-------|
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](../../leetcode/problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.py) |  |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](../../leetcode/problems/1665-minimum-initial-energy-to-finish-tasks/solution.py) |  |
+| 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Solution](../../leetcode/problems/3739-count-subarrays-with-majority-element-ii/solution.py) |  |
