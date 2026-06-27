@@ -663,6 +663,18 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 3020,
+      "title": "Find the Maximum Number of Elements in Subset",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "hash-tables"
+      ],
+      "link": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "notes": "",
+      "date_solved": "2026-06-27"
+    },
+    {
       "id": 3612,
       "title": "Process String with Special Operations I",
       "difficulty": "Medium",

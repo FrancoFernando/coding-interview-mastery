@@ -1,6 +1,6 @@
 # Arrays Problems
 
-_Last updated: 2026-06-26_
+_Last updated: 2026-06-27_
 
 ## LeetCode
 
@@ -22,6 +22,7 @@ _Last updated: 2026-06-26_
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Solution](../../leetcode/problems/1861-rotating-the-box/solution.py) |  |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Solution](../../leetcode/problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py) |  |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | [Solution](../../leetcode/problems/3020-find-the-maximum-number-of-elements-in-subset/solution.py) |  |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](../../leetcode/problems/3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) |  |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Solution](../../leetcode/problems/3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) |  |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Solution](../../leetcode/problems/3660-jump-game-ix/solution.py) |  |
