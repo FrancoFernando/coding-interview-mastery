@@ -562,6 +562,18 @@
       "date_solved": "2026-06-20"
     },
     {
+      "id": 1846,
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "notes": "",
+      "date_solved": "2026-06-28"
+    },
+    {
       "id": 1861,
       "title": "Rotating the Box",
       "difficulty": "Medium",

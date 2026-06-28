@@ -1,6 +1,6 @@
 # Backtracking Problems
 
-_Last updated: 2026-06-27_
+_Last updated: 2026-06-28_
 
 ## LeetCode
 
