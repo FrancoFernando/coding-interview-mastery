@@ -13,7 +13,7 @@ To maximize the final value you want the steepest legal staircase, which climbs 
 
 **Sort ascending**, then walk through the values keeping a running height `prev`:
 
-```
+```python
 prev = 0
 for num in sorted(arr):
     prev = min(prev + 1, num)
@@ -38,5 +38,5 @@ The sequence is non-decreasing, so `prev` after the final step is the maximum â€
 
 ## Notes
 
-- The `min` matters whenever `num < prev + 1` â€” duplicates (`num == prev`), drops (`num < prev`), and ties (`num == prev + 1`) all keep `num`; only `num > prev + 1` triggers the decrease down to `prev + 1`.
+- After sorting, the invariant `prev <= num` always holds (`prev` is a `min` that includes `num`, and the next `num` is never smaller), so `num < prev` is impossible. The `min` therefore matters only for the duplicate case `num == prev`; otherwise `num >= prev + 1` and the staircase climbs (capping down to `prev + 1` when `num > prev + 1`).
 - No need to mutate the array; one `prev` variable suffices.
