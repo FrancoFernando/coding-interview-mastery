@@ -596,6 +596,17 @@
       "date_solved": "2026-01-10"
     },
     {
+      "id": 1967,
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "difficulty": "Easy",
+      "categories": [
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "notes": "",
+      "date_solved": "2026-06-29"
+    },
+    {
       "id": 2033,
       "title": "Minimum Operations to Make a Uni-Value Grid",
       "difficulty": "Medium",

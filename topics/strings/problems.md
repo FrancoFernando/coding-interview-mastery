@@ -1,6 +1,6 @@
 # Strings Problems
 
-_Last updated: 2026-06-28_
+_Last updated: 2026-06-29_
 
 ## LeetCode
 
@@ -11,6 +11,7 @@ _Last updated: 2026-06-28_
 | 796 | [Rotate string](https://leetcode.com/problems/rotate-string/) | [Solution](../../leetcode/problems/0796-rotate-string/solution.py) |  |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Solution](../../leetcode/problems/1189-maximum-number-of-balloons/solution.py) |  |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Solution](../../leetcode/problems/1832-check-if-the-sentence-is-pangram/solution.py) |  |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Solution](../../leetcode/problems/1967-number-of-strings-that-appear-as-substrings-in-word/solution.py) |  |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [Solution](../../leetcode/problems/3838-weighted-word-mapping/solution.py) |  |
 
 ### Medium
