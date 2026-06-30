@@ -1,6 +1,6 @@
 # Strings Problems
 
-_Last updated: 2026-06-29_
+_Last updated: 2026-06-30_
 
 ## LeetCode
 
@@ -18,6 +18,7 @@ _Last updated: 2026-06-29_
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](../../leetcode/problems/1358-number-of-substrings-containing-all-three-characters/solution.py) |  |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Solution](../../leetcode/problems/3612-process-string-with-special-operations-i/solution.py) |  |
 
 ### Hard

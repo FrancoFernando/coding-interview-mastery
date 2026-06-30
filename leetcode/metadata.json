@@ -470,6 +470,18 @@
       "date_solved": "2026-06-18"
     },
     {
+      "id": 1358,
+      "title": "Number of Substrings Containing All Three Characters",
+      "difficulty": "Medium",
+      "categories": [
+        "strings",
+        "hash-tables"
+      ],
+      "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "notes": "",
+      "date_solved": "2026-06-30"
+    },
+    {
       "id": 1426,
       "title": "Counting Elements",
       "difficulty": "Easy",
