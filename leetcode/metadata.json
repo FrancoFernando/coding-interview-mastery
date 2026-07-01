@@ -698,6 +698,18 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 2812,
+      "title": "Find the Safest Path in a Grid",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs",
+        "searching"
+      ],
+      "link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+      "notes": "",
+      "date_solved": "2026-07-01"
+    },
+    {
       "id": 3020,
       "title": "Find the Maximum Number of Elements in Subset",
       "difficulty": "Medium",

@@ -1,6 +1,6 @@
 # Searching Problems
 
-_Last updated: 2026-06-30_
+_Last updated: 2026-07-01_
 
 ## LeetCode
 
@@ -17,6 +17,7 @@ _Last updated: 2026-06-30_
 |---|---------|----------|-------|
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](../../leetcode/problems/0153-find-minimum-in-rotated-sorted-array/solution.py) |  |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](../../leetcode/problems/1283-find-the-smallest-divisor-given-a-threshold/solution.py) |  |
+| 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Solution](../../leetcode/problems/2812-find-the-safest-path-in-a-grid/solution.py) |  |
 
 ### Hard
 
