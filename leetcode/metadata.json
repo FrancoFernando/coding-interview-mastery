@@ -470,6 +470,18 @@
       "date_solved": "2026-06-18"
     },
     {
+      "id": 1358,
+      "title": "Number of Substrings Containing All Three Characters",
+      "difficulty": "Medium",
+      "categories": [
+        "strings",
+        "hash-tables"
+      ],
+      "link": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "notes": "",
+      "date_solved": "2026-06-30"
+    },
+    {
       "id": 1426,
       "title": "Counting Elements",
       "difficulty": "Easy",
@@ -562,6 +574,18 @@
       "date_solved": "2026-06-20"
     },
     {
+      "id": 1846,
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "notes": "",
+      "date_solved": "2026-06-28"
+    },
+    {
       "id": 1861,
       "title": "Rotating the Box",
       "difficulty": "Medium",
@@ -582,6 +606,17 @@
       "link": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/",
       "notes": "",
       "date_solved": "2026-01-10"
+    },
+    {
+      "id": 1967,
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "difficulty": "Easy",
+      "categories": [
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "notes": "",
+      "date_solved": "2026-06-29"
     },
     {
       "id": 2033,
@@ -663,6 +698,18 @@
       "date_solved": "2026-05-16"
     },
     {
+      "id": 3020,
+      "title": "Find the Maximum Number of Elements in Subset",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "hash-tables"
+      ],
+      "link": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "notes": "",
+      "date_solved": "2026-06-27"
+    },
+    {
       "id": 3612,
       "title": "Process String with Special Operations I",
       "difficulty": "Medium",
@@ -728,6 +775,28 @@
       "link": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
       "notes": "",
       "date_solved": "2026-06-13"
+    },
+    {
+      "id": 3737,
+      "title": "Count Subarrays With Majority Element I",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "notes": "",
+      "date_solved": "2026-06-25"
+    },
+    {
+      "id": 3739,
+      "title": "Count Subarrays With Majority Element II",
+      "difficulty": "Hard",
+      "categories": [
+        "arrays"
+      ],
+      "link": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/",
+      "notes": "",
+      "date_solved": "2026-06-26"
     },
     {
       "id": 3742,

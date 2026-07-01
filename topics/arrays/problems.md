@@ -1,6 +1,6 @@
 # Arrays Problems
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-06-30_
 
 ## LeetCode
 
@@ -20,11 +20,14 @@ _Last updated: 2026-06-24_
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](../../leetcode/problems/0153-find-minimum-in-rotated-sorted-array/solution.py) |  |
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](../../leetcode/problems/0396-rotate-function/solution.py) |  |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Solution](../../leetcode/problems/1846-maximum-element-after-decreasing-and-rearranging/solution.py) |  |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Solution](../../leetcode/problems/1861-rotating-the-box/solution.py) |  |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Solution](../../leetcode/problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py) |  |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | [Solution](../../leetcode/problems/3020-find-the-maximum-number-of-elements-in-subset/solution.py) |  |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Solution](../../leetcode/problems/3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) |  |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Solution](../../leetcode/problems/3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) |  |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Solution](../../leetcode/problems/3660-jump-game-ix/solution.py) |  |
+| 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Solution](../../leetcode/problems/3737-count-subarrays-with-majority-element-i/solution.py) |  |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Solution](../../leetcode/problems/3751-total-waviness-of-numbers-in-range-i/solution.py) |  |
 
 ### Hard
@@ -33,3 +36,4 @@ _Last updated: 2026-06-24_
 |---|---------|----------|-------|
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](../../leetcode/problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.py) |  |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Solution](../../leetcode/problems/1665-minimum-initial-energy-to-finish-tasks/solution.py) |  |
+| 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Solution](../../leetcode/problems/3739-count-subarrays-with-majority-element-ii/solution.py) |  |

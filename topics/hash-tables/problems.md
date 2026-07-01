@@ -1,6 +1,6 @@
 # Hash Tables Problems
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-06-30_
 
 ## LeetCode
 
@@ -19,4 +19,6 @@ _Last updated: 2026-06-24_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](../../leetcode/problems/1358-number-of-substrings-containing-all-three-characters/solution.py) |  |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Solution](../../leetcode/problems/2196-create-binary-tree-from-descriptions/solution.py) |  |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | [Solution](../../leetcode/problems/3020-find-the-maximum-number-of-elements-in-subset/solution.py) |  |
