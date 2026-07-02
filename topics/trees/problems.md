@@ -1,6 +1,6 @@
 # Trees Problems
 
-_Last updated: 2026-07-01_
+_Last updated: 2026-07-02_
 
 ## LeetCode
 

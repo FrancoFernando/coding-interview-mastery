@@ -722,6 +722,18 @@
       "date_solved": "2026-06-27"
     },
     {
+      "id": 3286,
+      "title": "Find a Safe Walk Through a Grid",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs",
+        "searching"
+      ],
+      "link": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "notes": "",
+      "date_solved": "2026-07-02"
+    },
+    {
       "id": 3612,
       "title": "Process String with Special Operations I",
       "difficulty": "Medium",
