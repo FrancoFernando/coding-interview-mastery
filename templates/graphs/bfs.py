@@ -149,3 +149,25 @@ def rotting_oranges(grid):
         minutes += 1
 
     return -1 if fresh else minutes   # leftover fresh => unreachable
+
+
+# ============================================================================
+# PRACTICE LADDER  (do them in this order)
+# ============================================================================
+# Simple BFS — direct use
+#   1. LC 1971  Find if Path Exists in Graph   — redo BFS-only, from blank
+#   2. LC 797   All Paths From Source to Target
+#   3. LC 1091  Shortest Path in Binary Matrix — grid BFS, 8 directions (tweak DIRS)
+#
+# Simple BFS — disguised / sub-step
+#   4. LC 127   Word Ladder — nodes are words, edges are one-letter changes;
+#               recognizing it IS BFS is the whole lesson
+#
+# Multi-source BFS — the payoff
+#   5. LC 994   Rotting Oranges — canonical (template #5 solves it)
+#   6. LC 542   01 Matrix — seed all the 0s, BFS out to every 1
+#   7. LC 1162  As Far from Land as Possible — seed all land, answer is max dist reached
+#   8. LC 286   Walls and Gates — seed all gates; the "why not BFS from each room"
+#               trap is exactly what multi-source fixes
+#
+# Checkpoint: if you nail 1091 -> 994 -> 542, you own this pattern.
