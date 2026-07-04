@@ -37,6 +37,13 @@ Every template file follows the same shape:
 
 Nail the ★ primitives first.
 
+## Drilling
+
+These files are the **answer key** — read-only reference. Blank-canvas drills
+live in the parallel [../practice/](../practice/) tree, one file per variant
+(`templates/graphs/bfs.py` ↔ `practice/graphs/bfs/multi_source.py`). Fill in a
+stub without peeking, run it to self-check, repeat until automatic.
+
 ## Adding a new template
 
 Use the `add-primitive` skill: `/add-primitive <topic-folder> "<primitive name>"`.
