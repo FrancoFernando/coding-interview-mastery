@@ -686,6 +686,17 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 2492,
+      "title": "Minimum Score of a Path Between Two Cities",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs"
+      ],
+      "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "notes": "",
+      "date_solved": "2026-07-04"
+    },
+    {
       "id": 2784,
       "title": "Check if Array is Good",
       "difficulty": "Easy",

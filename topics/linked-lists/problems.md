@@ -1,6 +1,6 @@
 # Linked Lists Problems
 
-_Last updated: 2026-07-02_
+_Last updated: 2026-07-04_
 
 ## LeetCode
 
