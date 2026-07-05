@@ -437,6 +437,17 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 1301,
+      "title": "Number of Paths with Max Score",
+      "difficulty": "Hard",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "notes": "",
+      "date_solved": "2026-07-05"
+    },
+    {
       "id": 1323,
       "title": "Maximum 69 Number",
       "difficulty": "Easy",
