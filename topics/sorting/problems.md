@@ -1,6 +1,6 @@
 # Sorting Problems
 
-_Last updated: 2026-07-05_
+_Last updated: 2026-07-06_
 
 ## LeetCode
 
@@ -8,6 +8,7 @@ _Last updated: 2026-07-05_
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](../../leetcode/problems/1288-remove-covered-intervals/solution.py) |  |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Solution](../../leetcode/problems/1833-maximum-ice-cream-bars/solution.py) |  |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Solution](../../leetcode/problems/1846-maximum-element-after-decreasing-and-rearranging/solution.py) |  |
 

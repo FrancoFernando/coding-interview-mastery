@@ -426,6 +426,18 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 1288,
+      "title": "Remove Covered Intervals",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/remove-covered-intervals/",
+      "notes": "",
+      "date_solved": "2026-07-06"
+    },
+    {
       "id": 1290,
       "title": "Convert Binary Number in a Linked List to Integer",
       "difficulty": "Easy",
