@@ -890,6 +890,17 @@
       "date_solved": "2026-06-05"
     },
     {
+      "id": 3754,
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "difficulty": "Easy",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "notes": "",
+      "date_solved": "2026-07-07"
+    },
+    {
       "id": 3699,
       "title": "Number of ZigZag Arrays I",
       "difficulty": "Hard",
