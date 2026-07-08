@@ -1,6 +1,6 @@
 # Strings Problems
 
-_Last updated: 2026-07-07_
+_Last updated: 2026-07-08_
 
 ## LeetCode
 
@@ -20,6 +20,7 @@ _Last updated: 2026-07-07_
 |---|---------|----------|-------|
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](../../leetcode/problems/1358-number-of-substrings-containing-all-three-characters/solution.py) |  |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Solution](../../leetcode/problems/3612-process-string-with-special-operations-i/solution.py) |  |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Solution](../../leetcode/problems/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) |  |
 
 ### Hard
 

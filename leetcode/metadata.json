@@ -901,6 +901,18 @@
       "date_solved": "2026-07-07"
     },
     {
+      "id": 3756,
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "difficulty": "Medium",
+      "categories": [
+        "math",
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "notes": "",
+      "date_solved": "2026-07-08"
+    },
+    {
       "id": 3699,
       "title": "Number of ZigZag Arrays I",
       "difficulty": "Hard",
