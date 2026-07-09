@@ -734,6 +734,17 @@
       "date_solved": "2026-07-02"
     },
     {
+      "id": 3532,
+      "title": "Path Existence Queries in a Graph I",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs"
+      ],
+      "link": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "notes": "",
+      "date_solved": "2026-07-09"
+    },
+    {
       "id": 3612,
       "title": "Process String with Special Operations I",
       "difficulty": "Medium",
