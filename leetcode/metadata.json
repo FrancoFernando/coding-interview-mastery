@@ -426,6 +426,18 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 1288,
+      "title": "Remove Covered Intervals",
+      "difficulty": "Medium",
+      "categories": [
+        "arrays",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/remove-covered-intervals/",
+      "notes": "",
+      "date_solved": "2026-07-06"
+    },
+    {
       "id": 1290,
       "title": "Convert Binary Number in a Linked List to Integer",
       "difficulty": "Easy",
@@ -435,6 +447,17 @@
       "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
       "notes": "",
       "date_solved": "2026-01-08"
+    },
+    {
+      "id": 1301,
+      "title": "Number of Paths with Max Score",
+      "difficulty": "Hard",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "notes": "",
+      "date_solved": "2026-07-05"
     },
     {
       "id": 1323,
@@ -686,6 +709,17 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 2492,
+      "title": "Minimum Score of a Path Between Two Cities",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs"
+      ],
+      "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "notes": "",
+      "date_solved": "2026-07-04"
+    },
+    {
       "id": 2784,
       "title": "Check if Array is Good",
       "difficulty": "Easy",
@@ -865,6 +899,29 @@
       "link": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
       "notes": "",
       "date_solved": "2026-06-05"
+    },
+    {
+      "id": 3754,
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "difficulty": "Easy",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+      "notes": "",
+      "date_solved": "2026-07-07"
+    },
+    {
+      "id": 3756,
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "difficulty": "Medium",
+      "categories": [
+        "math",
+        "strings"
+      ],
+      "link": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/",
+      "notes": "",
+      "date_solved": "2026-07-08"
     },
     {
       "id": 3699,

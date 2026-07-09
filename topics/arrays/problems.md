@@ -20,6 +20,7 @@ _Last updated: 2026-07-09_
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](../../leetcode/problems/0153-find-minimum-in-rotated-sorted-array/solution.py) |  |
 | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](../../leetcode/problems/0396-rotate-function/solution.py) |  |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](../../leetcode/problems/0560-subarray-sum-equals-k/solution.py) |  |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution](../../leetcode/problems/1288-remove-covered-intervals/solution.py) |  |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Solution](../../leetcode/problems/1846-maximum-element-after-decreasing-and-rearranging/solution.py) |  |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Solution](../../leetcode/problems/1861-rotating-the-box/solution.py) |  |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Solution](../../leetcode/problems/2033-minimum-operations-to-make-a-uni-value-grid/solution.py) |  |
