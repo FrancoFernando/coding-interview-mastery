@@ -18,7 +18,7 @@ A curated checklist of techniques to drill until they're automatic. Star (**★*
 - Tree diameter (two BFS, or one DFS returning two heights)
 - Dijkstra (heap-based)
 - Bellman-Ford (when negative edges)
-- LCA via binary lifting
+- Binary lifting ("binary jumping") — precompute `up[k][i]` = the `2^k`-th successor, then answer "jump N steps" / distance queries in `O(log n)`. Powers LCA, k-th ancestor, and min-jumps on a monotonic-reach jump game.
 
 ---
 
