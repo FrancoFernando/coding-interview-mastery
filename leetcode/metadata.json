@@ -779,6 +779,17 @@
       "date_solved": "2026-07-09"
     },
     {
+      "id": 3534,
+      "title": "Path Existence Queries in a Graph II",
+      "difficulty": "Hard",
+      "categories": [
+        "graphs"
+      ],
+      "link": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "notes": "Binary lifting on sorted values",
+      "date_solved": "2026-07-10"
+    },
+    {
       "id": 3612,
       "title": "Process String with Special Operations I",
       "difficulty": "Medium",
