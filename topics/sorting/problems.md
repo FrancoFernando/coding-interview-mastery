@@ -1,8 +1,14 @@
 # Sorting Problems
 
-_Last updated: 2026-07-11_
+_Last updated: 2026-07-12_
 
 ## LeetCode
+
+### Easy
+
+| # | Problem | Solution | Notes |
+|---|---------|----------|-------|
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](../../leetcode/problems/1331-rank-transform-of-an-array/solution.py) |  |
 
 ### Medium
 
