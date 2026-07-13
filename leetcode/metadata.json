@@ -449,6 +449,17 @@
       "date_solved": "2026-01-08"
     },
     {
+      "id": 1291,
+      "title": "Sequential Digits",
+      "difficulty": "Medium",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/sequential-digits/",
+      "notes": "Enumerate substrings of 123456789",
+      "date_solved": "2026-07-13"
+    },
+    {
       "id": 1301,
       "title": "Number of Paths with Max Score",
       "difficulty": "Hard",
