@@ -1,4 +1,5 @@
 from collections import deque
+from enum import Enum
 
 # ============================================================================
 # PRACTICE: TOPOLOGICAL SORT — KAHN'S ALGORITHM
@@ -41,41 +42,29 @@ from collections import deque
 
 def topo_kahn(n, edges):
     """n nodes 0..n-1. edges: (u, v) means u before v. Returns order or None."""
+    indegree = [0 for _ in range(n)]
+    graph = [[] for _ in range(n)]
+    for u, v in edges:
+        indegree[v] += 1
+        graph[u].append(v)
+    
+    q = deque(idx for idx, val in enumerate(indegree) if val == 0)
+    result = []
+    while q:
+        node = q.popleft()
+        result.append(node)
+        for adj in graph[node]:
+            indegree[adj] -= 1
+            if indegree[adj] == 0:
+                q.append(adj)
+    return None if len(result) != n else result
     
 
 
 # ============================================================================
 # SELF-CHECK  (don't edit below this line)
 # ============================================================================
-def _is_valid_topo(order, n, edges):
-    if order is None or sorted(order) != list(range(n)):
-        return False                       # must be a permutation of 0..n-1
-    pos = {node: i for i, node in enumerate(order)}
-    return all(pos[u] < pos[v] for u, v in edges)   # every edge points forward
-
-
-def _run_tests():
-    # 1. simple diamond — several valid orders exist
-    assert _is_valid_topo(topo_kahn(4, [(0, 1), (0, 2), (1, 3), (2, 3)]),
-                          4, [(0, 1), (0, 2), (1, 3), (2, 3)])
-
-    # 2. straight chain — exactly one valid order
-    assert topo_kahn(3, [(0, 1), (1, 2)]) == [0, 1, 2]
-
-    # 3. no edges — any permutation is fine, must contain all nodes
-    assert sorted(topo_kahn(3, [])) == [0, 1, 2]
-
-    # 4. two-node cycle -> None
-    assert topo_kahn(2, [(0, 1), (1, 0)]) is None
-
-    # 5. cycle buried in a larger graph -> None
-    assert topo_kahn(4, [(0, 1), (1, 2), (2, 1), (2, 3)]) is None
-
-    # 6. self-loop is a cycle -> None
-    assert topo_kahn(1, [(0, 0)]) is None
-
-    print("All tests passed ✅")
-
+from _check import run_tests   # shared contract check (see _check.py)
 
 if __name__ == "__main__":
-    _run_tests()
+    run_tests(topo_kahn)

@@ -471,6 +471,18 @@
       "date_solved": "2026-01-20"
     },
     {
+      "id": 1331,
+      "title": "Rank Transform of an Array",
+      "difficulty": "Easy",
+      "categories": [
+        "arrays",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "notes": "",
+      "date_solved": "2026-07-12"
+    },
+    {
       "id": 1338,
       "title": "Reduce Array Size to The Half",
       "difficulty": "Medium",
@@ -718,6 +730,17 @@
       "link": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
       "notes": "",
       "date_solved": "2026-07-04"
+    },
+    {
+      "id": 2685,
+      "title": "Count the Number of Complete Components",
+      "difficulty": "Medium",
+      "categories": [
+        "graphs"
+      ],
+      "link": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+      "notes": "",
+      "date_solved": "2026-07-11"
     },
     {
       "id": 2784,
