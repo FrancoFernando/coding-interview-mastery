@@ -42,8 +42,32 @@ WHITE, GRAY, BLACK = 0, 1, 2
 
 def topo_dfs(n, edges):
     """n nodes 0..n-1. edges: (u, v) means u before v. Returns order or None."""
-    # TODO: implement
-    pass
+    graph = [[] for _ in range(n)]
+    for u, v in edges:
+        graph[u].append(v)
+    
+    topo_sort = deque()
+    state = [WHITE] * n
+    
+    def dfs(node):
+        state[node] = GRAY
+        for adj in graph[node]:
+            if state[adj] == GRAY:
+                return False
+            if state[adj] == WHITE and not dfs(adj):
+                return False
+        state[node] = BLACK
+        topo_sort.appendleft(node)
+        return True
+
+    for node in range(n):
+        if state[node] != WHITE:
+            continue
+        if not dfs(node):
+            return None
+    return list(topo_sort)
+
+
 
 
 # ============================================================================
