@@ -4,7 +4,10 @@
       "Bash(python3:*)",
       "Bash(git fetch *)",
       "Bash(git merge *)",
-      "Bash(cat > *)"
+      "Bash(cat > *)",
+      "Bash(git merge-base *)",
+      "Bash(git stash *)",
+      "Bash(git pull *)"
     ],
     "additionalDirectories": [
       "/tmp"
