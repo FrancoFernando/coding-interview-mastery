@@ -1,6 +1,6 @@
 # Dynamic Programming Problems
 
-_Last updated: 2026-07-13_
+_Last updated: 2026-07-14_
 
 ## LeetCode
 
@@ -24,6 +24,7 @@ _Last updated: 2026-07-13_
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | [Solution](../../leetcode/problems/1301-number-of-paths-with-max-score/solution.py) |  |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [Solution](../../leetcode/problems/3336-find-the-number-of-subsequences-with-equal-gcd/solution.py) | 3-way labelling DP, state = (gcd seq1, gcd seq2) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Solution](../../leetcode/problems/3699-number-of-zigzag-arrays-i/solution.py) |  |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Solution](../../leetcode/problems/3700-number-of-zigzag-arrays-ii/solution.py) |  |
 | 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Solution](../../leetcode/problems/3753-total-waviness-of-numbers-in-range-ii/solution.py) |  |

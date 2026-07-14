@@ -802,6 +802,17 @@
       "date_solved": "2026-07-02"
     },
     {
+      "id": 3336,
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "difficulty": "Hard",
+      "categories": [
+        "dynamic-programming"
+      ],
+      "link": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+      "notes": "3-way labelling DP, state = (gcd seq1, gcd seq2)",
+      "date_solved": "2026-07-14"
+    },
+    {
       "id": 3532,
       "title": "Path Existence Queries in a Graph I",
       "difficulty": "Medium",
