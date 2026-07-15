@@ -879,6 +879,17 @@
       "date_solved": "2026-06-13"
     },
     {
+      "id": 3658,
+      "title": "GCD of Odd and Even Sums",
+      "difficulty": "Easy",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "notes": "",
+      "date_solved": "2026-07-12"
+    },
+    {
       "id": 3660,
       "title": "Jump Game IX",
       "difficulty": "Medium",

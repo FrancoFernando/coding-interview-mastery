@@ -1,6 +1,6 @@
 # Math Problems
 
-_Last updated: 2026-07-14_
+_Last updated: 2026-07-15_
 
 ## LeetCode
 
@@ -8,6 +8,7 @@ _Last updated: 2026-07-14_
 
 | # | Problem | Solution | Notes |
 |---|---------|----------|-------|
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Solution](../../leetcode/problems/3658-gcd-of-odd-and-even-sums/solution.py) |  |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Solution](../../leetcode/problems/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.py) |  |
 
 ### Medium
