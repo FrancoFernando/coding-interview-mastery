@@ -1022,6 +1022,18 @@
       "link": "https://leetcode.com/problems/weighted-word-mapping/",
       "notes": "",
       "date_solved": "2026-06-19"
+    },
+    {
+      "id": 3867,
+      "title": "Sum of GCD of Formed Pairs",
+      "difficulty": "Medium",
+      "categories": [
+        "math",
+        "sorting"
+      ],
+      "link": "https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/",
+      "notes": "",
+      "date_solved": "2026-07-16"
     }
   ]
 }

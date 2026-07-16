@@ -1,6 +1,6 @@
 # Math Problems
 
-_Last updated: 2026-07-15_
+_Last updated: 2026-07-17_
 
 ## LeetCode
 
@@ -19,3 +19,4 @@ _Last updated: 2026-07-15_
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution](../../leetcode/problems/1291-sequential-digits/solution.py) | Enumerate substrings of 123456789 |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution](../../leetcode/problems/1344-angle-between-hands-of-a-clock/solution.py) |  |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | [Solution](../../leetcode/problems/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) |  |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Solution](../../leetcode/problems/3867-sum-of-gcd-of-formed-pairs/solution.py) |  |
