@@ -802,6 +802,18 @@
       "date_solved": "2026-07-02"
     },
     {
+      "id": 3312,
+      "title": "Sorted GCD Pair Queries",
+      "difficulty": "Hard",
+      "categories": [
+        "math",
+        "searching"
+      ],
+      "link": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "notes": "",
+      "date_solved": "2026-07-17"
+    },
+    {
       "id": 3336,
       "title": "Find the Number of Subsequences With Equal GCD",
       "difficulty": "Hard",
