@@ -1,6 +1,6 @@
 # Searching Problems
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-07-18_
 
 ## LeetCode
 
@@ -26,3 +26,4 @@ _Last updated: 2026-07-17_
 |---|---------|----------|-------|
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](../../leetcode/problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.py) |  |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [Solution](../../leetcode/problems/1231-divide-chocolate/solution.py) |  |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Solution](../../leetcode/problems/3312-sorted-gcd-pair-queries/solution.py) |  |

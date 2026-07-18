@@ -665,6 +665,17 @@
       "date_solved": "2026-06-29"
     },
     {
+      "id": 1979,
+      "title": "Find Greatest Common Divisor of Array",
+      "difficulty": "Easy",
+      "categories": [
+        "math"
+      ],
+      "link": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "notes": "",
+      "date_solved": "2026-07-18"
+    },
+    {
       "id": 2033,
       "title": "Minimum Operations to Make a Uni-Value Grid",
       "difficulty": "Medium",
